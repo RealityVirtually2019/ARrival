@@ -5,14 +5,18 @@ using UnityEngine;
 public class Msgorbit : MonoBehaviour {
     Transform target=null;
 
+    AudioSource audioSource;
+    public AudioClip audioClip;
+    public ParticleSystem particleSystem;
+    public bool SendOutFromAlien;
+   
 
     public void SendOutmsg(Transform t){
 
         target = t;
+        //audioSource = GetComponent<AudioSource>();
 
-
-
-
+        //audioSource.clip = audioClip;
 
 
     }
@@ -26,6 +30,40 @@ public class Msgorbit : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        if (target != null)
+        {
+            transform.LookAt(target);
+            transform.Translate(new Vector3(0, 0, 0.008f));
+        }
 		
 	}
+
+
+
+
+private void OnCollisionEnter(Collision collision)
+    {
+        
+        if(collision.gameObject.tag=="Alien"  && !SendOutFromAlien){
+            
+
+            Destroy(this.gameObject);
+
+
+
+        }
+        if (collision.gameObject.tag == "Player" && SendOutFromAlien)
+        {
+
+
+            Destroy(this.gameObject);
+        }
+    
+    
+    
+    }
+
+
+
+
 }
