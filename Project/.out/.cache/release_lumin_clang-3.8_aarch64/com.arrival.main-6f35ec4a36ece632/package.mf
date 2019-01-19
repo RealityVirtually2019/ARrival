@@ -2,7 +2,7 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "7b0a8b1519c3939f3f9818a8e008089cd155b56c",
+   "hash": "541a82d0cba4415ec9124e550dd40f0986d333c0",
    "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
    "size": 5036,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
@@ -167,7 +167,7 @@
   },
   {
    "compression": 8,
-   "hash": "badc067b96325b7a1aa1d1b337f6b4f0b17eeb4f",
+   "hash": "c6b4eeb16208c64662f38721888635d0ce7664d5",
    "pkgpath": "Data/globalgamemanagers",
    "size": 35392,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers"
@@ -181,7 +181,7 @@
   },
   {
    "compression": 8,
-   "hash": "29a53388e60081436c8467dbe938a6f1d55342f7",
+   "hash": "bb635d3ab0e817be9f4359c48b5bae87b6e6fa77",
    "pkgpath": "Data/level0",
    "size": 75476,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level0"
@@ -195,16 +195,16 @@
   },
   {
    "compression": 8,
-   "hash": "98efb2a0a989ee9a49eb6b8047fe01ad601d794c",
+   "hash": "dfbf45764fb5103b4a2175d805a42c45cd6e4bd0",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 3164280,
+   "size": 3776680,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
    "compression": 8,
-   "hash": "fff3b1dee1c218d1bc9fe6230d27777adb85fb6e",
+   "hash": "07717270e5badde926d9f137b420fa3da738de36",
    "pkgpath": "Data/sharedassets0.assets.resS",
-   "size": 22147792,
+   "size": 33332656,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets.resS"
   },
   {
