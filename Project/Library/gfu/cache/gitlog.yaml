@@ -12,9 +12,198 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-19T12:51:16.033-05:00
+  lastUpdatedAtString: 2019-01-19T13:07:18.179-05:00
   initializedAtString: 2019-01-18T19:45:52.329-05:00
   log:
+  - commitID: b7d903079ddfcd894c561f7b8a5b5fc7fa21649e
+    mergeA: a91653bed1a62c3600a3f6f6006db037923c93f9
+    mergeB: a95ec7d6eeca7fa93ac75563fc3d6138469b78c3
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T13:06:17.000-05:00
+    commitTimeString: 2019-01-19T13:06:17.000-05:00
+    changes: []
+  - commitID: a91653bed1a62c3600a3f6f6006db037923c93f9
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: WIP1305
+    description: WIP1305
+    timeString: 2019-01-19T13:06:04.000-05:00
+    commitTimeString: 2019-01-19T13:06:04.000-05:00
+    changes:
+    - path: Project/Assets/ARrivalsMain.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+      projectPath: Assets/ARrivalsMain.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/assetDatabase3
+      fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a95ec7d6eeca7fa93ac75563fc3d6138469b78c3
+    mergeA: 20839df36106f32b20dc755d13ab1ea7d0e1329e
+    mergeB: 2dd0b7cf7903dec75636925315b626e922e11187
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T14:02:47.000-04:00
+    commitTimeString: 2019-01-19T14:02:47.000-04:00
+    changes: []
+  - commitID: 20839df36106f32b20dc755d13ab1ea7d0e1329e
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Added_Fix, point and OK anim
+    description: 'Added_Fix, point and OK anim
+
+
+      Animation edits'
+    timeString: 2019-01-19T14:02:26.000-04:00
+    commitTimeString: 2019-01-19T14:02:26.000-04:00
+    changes:
+    - path: Animations/FIX_Point_And_Okay_Anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/FIX_Point_And_Okay_Anim.fbx
+      projectPath: ../Animations/FIX_Point_And_Okay_Anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Point_And_OK.mb
+      fullPath: /Users/apple/ARrival/Animations/Point_And_OK.mb
+      projectPath: ../Animations/Point_And_OK.mb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Animations/Point_And_Okay_Anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/Point_And_Okay_Anim.fbx
+      projectPath: ../Animations/Point_And_Okay_Anim.fbx
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 2dd0b7cf7903dec75636925315b626e922e11187
     mergeA: 7fa1aa7cf66a6d4abaca1c7725e332fe19c3c560
     mergeB: 964f461a785b8ca5ee76f9e2c4e0a03731212d53

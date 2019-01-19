@@ -12,24 +12,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T13:04:27.987-05:00
+  lastUpdatedAtString: 2019-01-19T13:56:59.573-05:00
   initializedAtString: 2019-01-18T19:18:59.984-05:00
   entries:
+  - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.out/com.arrival.main.mpk
+    fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
+    projectPath: .out/com.arrival.main.mpk
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
     projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx
-    originalPath: 
-    status: 1
-    staged: 0
   - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
     projectPath: Assets/Arrivals/ART/Modles/Animations/Alien_Idle.fbx.meta
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/alien_mat.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_Normal.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png.meta
     originalPath: 
     status: 1
     staged: 0
@@ -42,6 +114,12 @@ MonoBehaviour:
   - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
     fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
     projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+    projectPath: Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
     originalPath: 
     status: 3
     staged: 0
@@ -81,9 +159,57 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Project/Library/il2cpp_stats/statistics.txt
+    fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
+    projectPath: Library/il2cpp_stats/statistics.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/InspectorExpandedItems.asset
+    fullPath: /Users/apple/ARrival/Project/Library/InspectorExpandedItems.asset
+    projectPath: Library/InspectorExpandedItems.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/LastBuild.buildreport
+    fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
     fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
     projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/Data/globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/level0
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
+    projectPath: Library/PlayerDataCache/Data/level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets.resS
     originalPath: 
     status: 3
     staged: 0

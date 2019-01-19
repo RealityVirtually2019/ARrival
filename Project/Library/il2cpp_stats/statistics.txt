@@ -11,7 +11,7 @@
 
 ----- il2cpp Statistics -----
 General:
-	Conversion Time: 18.372 s
+	Conversion Time: 18.27 s
 	Files Written: 117
 	String Literals: 3608
 Methods:
@@ -80,52 +80,52 @@ Compilation:
 
 
 ----Assembly Conversion Times----
-	Convert Assembly-CSharp (412.6489ms)
-	Convert LuminUnity (688.497ms)
-	Convert Mono.Security (432.0358ms)
-	Convert mscorlib (2602.9008ms)
-	Convert System (418.7606ms)
-	Convert System.Core (47.7783ms)
-	Convert Unity.XR.MagicLeap (31.8389ms)
-	Convert UnityEngine (0.5985ms)
-	Convert UnityEngine.AIModule (2.1874ms)
-	Convert UnityEngine.Analytics (38.5107ms)
-	Convert UnityEngine.AnimationModule (54.5193ms)
-	Convert UnityEngine.ARModule (6.1226ms)
-	Convert UnityEngine.AssetBundleModule (2.6184ms)
-	Convert UnityEngine.AudioModule (61.3311ms)
-	Convert UnityEngine.CoreModule (492.3181ms)
-	Convert UnityEngine.DirectorModule (6.6331ms)
-	Convert UnityEngine.GridModule (0.6017ms)
-	Convert UnityEngine.ImageConversionModule (1.1328ms)
-	Convert UnityEngine.IMGUIModule (105.8146ms)
-	Convert UnityEngine.InputModule (4.615ms)
-	Convert UnityEngine.JSONSerializeModule (1.3246ms)
-	Convert UnityEngine.ParticleSystemModule (12.1755ms)
-	Convert UnityEngine.Physics2DModule (16.6625ms)
-	Convert UnityEngine.PhysicsModule (18.3545ms)
-	Convert UnityEngine.SharedInternalsModule (19.7069ms)
-	Convert UnityEngine.SpatialTracking (24.6566ms)
-	Convert UnityEngine.StandardEvents (7.7582ms)
-	Convert UnityEngine.TerrainModule (1.8416ms)
-	Convert UnityEngine.TextRenderingModule (18.7771ms)
-	Convert UnityEngine.TilemapModule (11.4664ms)
-	Convert UnityEngine.Timeline (405.8407ms)
-	Convert UnityEngine.UI (1182.8597ms)
-	Convert UnityEngine.UIElementsModule (5.2216ms)
-	Convert UnityEngine.UIModule (23.7836ms)
-	Convert UnityEngine.UnityAnalyticsModule (12.4992ms)
-	Convert UnityEngine.UnityConnectModule (7.79ms)
-	Convert UnityEngine.UnityWebRequestModule (41.2293ms)
-	Convert UnityEngine.VideoModule (13.0115ms)
-	Convert UnityEngine.VRModule (6.5936ms)
-	Convert UnityEngine.XRModule (35.2205ms)
+	Convert Assembly-CSharp (427.9313ms)
+	Convert LuminUnity (695.4069ms)
+	Convert Mono.Security (434.8638ms)
+	Convert mscorlib (2520.2046ms)
+	Convert System (432.5885ms)
+	Convert System.Core (48.4037ms)
+	Convert Unity.XR.MagicLeap (31.7099ms)
+	Convert UnityEngine (0.5894ms)
+	Convert UnityEngine.AIModule (2.359ms)
+	Convert UnityEngine.Analytics (39.5421ms)
+	Convert UnityEngine.AnimationModule (53.284ms)
+	Convert UnityEngine.ARModule (4.6797ms)
+	Convert UnityEngine.AssetBundleModule (4.4943ms)
+	Convert UnityEngine.AudioModule (62.3204ms)
+	Convert UnityEngine.CoreModule (501.1513ms)
+	Convert UnityEngine.DirectorModule (3.6545ms)
+	Convert UnityEngine.GridModule (0.626ms)
+	Convert UnityEngine.ImageConversionModule (1.4585ms)
+	Convert UnityEngine.IMGUIModule (113.9522ms)
+	Convert UnityEngine.InputModule (8.1317ms)
+	Convert UnityEngine.JSONSerializeModule (1.695ms)
+	Convert UnityEngine.ParticleSystemModule (13.3762ms)
+	Convert UnityEngine.Physics2DModule (19ms)
+	Convert UnityEngine.PhysicsModule (19.1764ms)
+	Convert UnityEngine.SharedInternalsModule (18.43ms)
+	Convert UnityEngine.SpatialTracking (26.298ms)
+	Convert UnityEngine.StandardEvents (8.6781ms)
+	Convert UnityEngine.TerrainModule (2.8065ms)
+	Convert UnityEngine.TextRenderingModule (21.4957ms)
+	Convert UnityEngine.TilemapModule (10.8776ms)
+	Convert UnityEngine.Timeline (407.3208ms)
+	Convert UnityEngine.UI (1190.7487ms)
+	Convert UnityEngine.UIElementsModule (4.2512ms)
+	Convert UnityEngine.UIModule (27.1846ms)
+	Convert UnityEngine.UnityAnalyticsModule (14.3775ms)
+	Convert UnityEngine.UnityConnectModule (6.046ms)
+	Convert UnityEngine.UnityWebRequestModule (44.4737ms)
+	Convert UnityEngine.VideoModule (9.749ms)
+	Convert UnityEngine.VRModule (9.2604ms)
+	Convert UnityEngine.XRModule (38.98ms)
 
 ----Misc Timing----
-	PreProcessStage: 234.7442
+	PreProcessStage: 226.0705
 	GenericsCollector.Collect: None
-	WriteGenerics: 3861.3744
-	AllAssemblyConversion: 7278.6152
+	WriteGenerics: 3940.4884
+	AllAssemblyConversion: 7281.9336
 
 ----Generated Files----
 Bulk_Assembly-CSharp_0.cpp	2245985
