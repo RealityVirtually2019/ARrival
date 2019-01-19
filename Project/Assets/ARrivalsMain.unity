@@ -1299,8 +1299,8 @@ AudioSource:
   SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 0
-  MaxDistance: 0.6350608
+  MinDistance: 0.62
+  MaxDistance: 1.8865774
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0
@@ -2052,7 +2052,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 100002, guid: 30fbf4dd83b164b86b98cf32c9045d02, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 30fbf4dd83b164b86b98cf32c9045d02, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
