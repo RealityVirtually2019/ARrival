@@ -12,9 +12,63 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-19T09:13:45.917-05:00
+  lastUpdatedAtString: 2019-01-19T09:14:19.449-05:00
   initializedAtString: 2019-01-18T19:45:52.329-05:00
   log:
+  - commitID: 94b82a339401e87bff7b2c942f5d94027c0d70c8
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: t
+    description: t
+    timeString: 2019-01-19T09:14:15.000-05:00
+    commitTimeString: 2019-01-19T09:14:15.000-05:00
+    changes:
+    - path: Project/Assets/ARrivalsMain.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+      projectPath: Assets/ARrivalsMain.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/assetDatabase3
+      fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 872c588dcf8948fff57ee0c8a0b7eaf43e1fa2a8
     mergeA: 
     mergeB: 
