@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/Planes.unity
-    guid: 5fca2d94f0384ff42b981955c16012ef
-  - enabled: 1
-    path: Assets/MagicLeap/Examples/Scenes/Placement.unity
-    guid: 5c1e1e5921209a54999bd6a01c411b14
-  - enabled: 1
-    path: Assets/Arrivals.unity
-    guid: 7d67c5cf6ac394667b78a1c0210ec798
+    path: Assets/ARrivalsMain.unity
+    guid: 00b3d2e6c439d4510a1c82d5efbaea0f
   m_configObjects: {}

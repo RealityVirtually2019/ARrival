@@ -156,7 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Lumin: com.arrival.test
+    Lumin: com.arrival.main
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -676,13 +676,13 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 1
+    UNet: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: /Users/apple/Desktop/MyWork/MagicLeap/privatekey (1)/arrivals2.cert
+    m_CertPath: /Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:

@@ -53,9 +53,9 @@ namespace MagicLeap
         #endregion
 
 
-
         public Alien alien;
-
+        public Portal portal;
+        public MeshRenderer cursorMesh;
         #region Unity Methods
         /// <summary>
         /// Check editor set variables for null references.
@@ -177,6 +177,8 @@ namespace MagicLeap
             if (_controllerConnectionHandler.IsControllerValid(controllerId) && button == MLInputControllerButton.Bumper)
             {
                 alien.changetoOutside();
+                portal.changetoOutside();
+                cursorMesh.enabled = false;
             }
 
         }

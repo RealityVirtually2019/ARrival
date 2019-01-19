@@ -8,9 +8,11 @@ public class KeyGestureControl : MonoBehaviour {
 
     public  MLHandKeyPose _keyPoseToTrack;
 
-    private bool _trackLeftHand = true;
-    private bool _trackRightHand = true;
+    public bool _trackLeftHand = true;
+    public bool _trackRightHand = true;
+    public float threadshold = 0.0f;
 
+    public bool isOk;
 
 	// Use this for initialization
 	void Start () {
@@ -26,9 +28,15 @@ public class KeyGestureControl : MonoBehaviour {
 
      //   Color currentColor = Color.white;
 
-        if (confidenceValue > 0.0f)
+        if (confidenceValue > threadshold)
         {
-            BroadcastMessage(Functioncall);
+            isOk = true;
+
+
+        }else{
+            isOk = false;
+
+
         }
 
     

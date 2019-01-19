@@ -2,9 +2,7 @@ Lumin
 PlayerPath?
 /Users/apple/Desktop/MyWork/MagicLeap/AliensAndGesture.mpk
 SceneListBegin?
-Assets/MagicLeap/Examples/Scenes/Planes.unity
-Assets/MagicLeap/Examples/Scenes/Placement.unity
-Assets/Arrivals.unity
+Assets/ARrivalsMain.unity
 SceneListEnd?
 588c819a9e0309a4f768ae93ee4e7341 Assembly-CSharp.dll:MagicLeap.PersistenceExample
 fe902a933c0490bd346cdfe28ceb165e Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.MagicLeapSceneOptimizer
@@ -177,8 +175,9 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 3f32f08a64daf40b09ed864d96fe3840 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransform
 73843688b51256aed059f049c540bca8 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformChild
 528ea1fd7c01796fc60c4e2f172ea229 UnityEngine.Networking.dll:UnityEngine.Networking.NetworkTransformVisualizer
-0b5ee9c1515184ac0b9bdffdb48a2a2f Assembly-CSharp.dll:MagicLeap.PlanesExample
+18900c8568e789ebc7918835bf724bea Assembly-CSharp.dll:MagicLeap.PlanesExample
 bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.ComboRaycastHead
+36ea7378405f9bc664dffd832738a283 Assembly-CSharp.dll:.Portal
 f36938efaa7ce487353613298530bb19 Assembly-CSharp.dll:MagicLeap.VideoCaptureExample
 9674758b3e641c81b6373bf74cebaf45 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.MLPersistentPoint
 60bd7ec0156ebe9c7853f1955096e6b1 Assembly-CSharp.dll:MagicLeap.HandTrackingVisualizer
@@ -226,10 +225,13 @@ bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.Co
 5f39f2dfbef172e9af674353fc4e86eb Assembly-CSharp.dll:MagicLeap.MediaPlayerExample
 0ec6a03f674d5d1190247aa03ae676b1 Assembly-CSharp.dll:MagicLeap.MediaPlayerButton
 8211b4aad94d74fc36c9d5ad5c02d73e Assembly-CSharp.dll:MagicLeap.MaterialForegroundColorController
+0029003a76cfc079db5d71eadca97570 Assembly-CSharp.dll:.KeyGestureControl
 22eb76d506347cff3059963b49529aee Assembly-CSharp.dll:MagicLeap.VignetteExample
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:MagicLeap.ContentDragHandler
 470efe9848fbf1a9b88e929732c3cca1 Assembly-CSharp.dll:MagicLeap.PlacementExample
 66eb4003e71585f0ef4c23034c2aa3b2 Assembly-CSharp.dll:MagicLeap.VirtualPointer
 08a92322e38205b685c92fa359d21d7a Assembly-CSharp.dll:MagicLeap.MeshingVisualizer
 2c832bb50381ee4d40b2f62c67f06a67 Assembly-CSharp.dll:MagicLeap.DeepSeaExplorerLauncher
-5b74c8ae0b4f4d87673bb28a6c4542e2 Assembly-CSharp.dll:.KeyGestureControl
+2b0d1bf7df1dadb2f1fa8efa0efe11fa Assembly-CSharp.dll:.ConGUI
+eb7ca56a2bb6a82bfc60f1c306aa9086 Assembly-CSharp.dll:.Lighting
+5915d3566a272de5eb6e536f4892b80c Assembly-CSharp.dll:.TowHandKeyGestureTable

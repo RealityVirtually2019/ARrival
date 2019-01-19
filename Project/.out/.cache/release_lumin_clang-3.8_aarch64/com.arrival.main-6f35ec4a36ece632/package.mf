@@ -1,0 +1,275 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "c032bfd67b9e17144eec3ba18060f409aafe9dab",
+   "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
+   "size": 5036,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
+  },
+  {
+   "compression": 8,
+   "hash": "8cb4984fd856a83721fe0738a9efaffdb6eacb0d",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 2993024,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "2bbb7d99df8d533995742d4713358097c06631d7",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 36697392,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "8871baa8639e47fae93ba4e8c38ce5a3330ee366",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729",
+   "xfrm_size": 36698150
+  },
+  {
+   "compression": 8,
+   "hash": "dc64ed4bee950e5ce1ab12268f627a3db179e4af",
+   "pkgpath": "bin/AudioPluginMSASpatializer.so",
+   "size": 220456,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/AudioPluginMSASpatializer.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "7e20e58bb997aa8c5bad8502a846323864b03d5d",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/AudioPluginMSASpatializer.so-ce916717153ffeb4",
+   "xfrm_size": 221214
+  },
+  {
+   "compression": 8,
+   "hash": "aed32544e1ea67c511396569fcb89b586b15d839",
+   "pkgpath": "bin/UnityEngine.SpatialTracking.dll",
+   "size": 9216,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/UnityEngine.SpatialTracking.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "715f293d231a26472ba1672c3e59f76cb0e5e364",
+   "pkgpath": "bin/UnityEngine.TestRunner.dll",
+   "size": 65536,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "d93ff7b64d92abd6dbb8419c3348ab5f56ad5ec5",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 728232,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a2a203aaed657c6277f81158d02557676eaaf2c4",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/UnityMagicLeap.so-ce916717153ffeb4",
+   "xfrm_size": 728990
+  },
+  {
+   "compression": 8,
+   "hash": "a765bb75be250a6992c1a46fc23a55501e369b85",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "ee32f648f231bc18036f4116193d21221928160c",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libml_camera_plugin.so-ce916717153ffeb4",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "633780c922a0dbfe032638afff9a25e3fc49219f",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 38792,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "3b9ca03022be82aa9260a97c8ec554aa92c4f83d",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libml_mediaplayer_plugin.so-ce916717153ffeb4",
+   "xfrm_size": 39550
+  },
+  {
+   "compression": 8,
+   "hash": "5629c7ff5fb59ddc72778d4b9d3dbadcde480998",
+   "pkgpath": "bin/nunit.framework.dll",
+   "size": 328192,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "dc1423ee40a78f4701880b37e1f07bc4f3500e9d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 3308004,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "c0d06b372dca191476c9fbca38494c86cc394e13",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 392748,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "9bbb5e3aae616602db933abd34140e11132fccea",
+   "pkgpath": "Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json",
+   "size": 438,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/UnitySubsystems/Runtime/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "b088e6387dff2186fa558355a759723407bcbc0a",
+   "pkgpath": "Data/boot.config",
+   "size": 55,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "045f3e600dae3ceec2306c33228e8f8ffb30c755",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 35352,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "47cc8a39c4e63ed00b026615dd408c4a7e0c7776",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 36816,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1f3e8714378c9d508ce44d6d4cfc92b604b0896f",
+   "pkgpath": "Data/level0",
+   "size": 57412,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "9f5616e0460cd171d01880f59e73c770bab135cd",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "fab682e3e04741d9d3418a823616fa81e8c26b91",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 3001288,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "4dd494aa1d5311d9cd36ceeb94c139a961a71e8b",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 17277904,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "8f59c553fa65e4c62b244f94275fdf50ef6a40e8",
+   "pkgpath": "bin/Player.elf",
+   "size": 22318968,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e443839c35a404ab6b0da0ec466e4bc3da37fea9",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/Player.elf-dd0051fc8f2fb49e",
+   "xfrm_size": 22319726
+  },
+  {
+   "compression": 8,
+   "hash": "92b825155af2f6687bb7f31f3e59ec7ef533f88c",
+   "pkgpath": "manifest.xml",
+   "size": 1761,
+   "src": "/Users/apple/ARrival/Project/Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "8c47f6bf1ca2589a64c7a8fdec17208dadec5eb7",
+     "developer_id": "6f1886c5-eecd-4e01-a8ce-4dbf18f85844"
+    }
+   },
+   "xfrm_hash": "e33b696937623c6933914a417a5f9348eb51b3b0",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e",
+   "xfrm_size": 1774
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/apple/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+    },
+    "taildata": {
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "2216d47934e8b1269cdfec257312b15c48c06ed9",
+   "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libc++_shared.so-b3555635beeb8ef4",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert"
+  },
+  "taildata": {
+   "devcert": "/Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
