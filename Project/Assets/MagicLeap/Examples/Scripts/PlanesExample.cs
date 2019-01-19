@@ -56,6 +56,7 @@ namespace MagicLeap
         public Alien alien;
         public Portal portal;
         public MeshRenderer cursorMesh;
+        public GameObject welcomPage;
         #region Unity Methods
         /// <summary>
         /// Check editor set variables for null references.
@@ -180,6 +181,7 @@ namespace MagicLeap
                 portal.changetoOutside();
                 _planesComponent.enabled = false;
                 cursorMesh.enabled = false;
+                welcomPage.SetActive(false);
             }
 
         }

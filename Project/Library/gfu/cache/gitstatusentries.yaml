@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T09:15:38.971-05:00
+  lastUpdatedAtString: 2019-01-19T11:50:52.618-05:00
   initializedAtString: 2019-01-18T19:18:59.984-05:00
   entries:
   - path: Project/Library/gfu/cache/branches.yaml
