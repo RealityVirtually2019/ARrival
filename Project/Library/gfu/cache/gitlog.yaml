@@ -12,9 +12,387 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-19T11:50:55.715-05:00
+  lastUpdatedAtString: 2019-01-19T12:51:16.033-05:00
   initializedAtString: 2019-01-18T19:45:52.329-05:00
   log:
+  - commitID: 2dd0b7cf7903dec75636925315b626e922e11187
+    mergeA: 7fa1aa7cf66a6d4abaca1c7725e332fe19c3c560
+    mergeB: 964f461a785b8ca5ee76f9e2c4e0a03731212d53
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T12:49:37.000-05:00
+    commitTimeString: 2019-01-19T12:49:37.000-05:00
+    changes: []
+  - commitID: 7fa1aa7cf66a6d4abaca1c7725e332fe19c3c560
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: WIP1247
+    description: WIP1247
+    timeString: 2019-01-19T12:47:57.000-05:00
+    commitTimeString: 2019-01-19T12:47:57.000-05:00
+    changes:
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/bin/libil2cpp.so
+      fullPath: /Users/apple/ARrival/Project/.out/bin/libil2cpp.so
+      projectPath: .out/bin/libil2cpp.so
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/com.arrival.main.mpk
+      fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
+      projectPath: .out/com.arrival.main.mpk
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/ARrivalsMain.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+      projectPath: Assets/ARrivalsMain.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/OtherPart.mask
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/OtherPart.mask
+      projectPath: Assets/Arrivals/ART/Modles/Animations/OtherPart.mask
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/OtherPart.mask.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/OtherPart.mask.meta
+      projectPath: Assets/Arrivals/ART/Modles/Animations/OtherPart.mask.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx.meta
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Point_And_Okay_Anim.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Upper.mask
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Upper.mask
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Upper.mask
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Upper.mask.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Upper.mask.meta
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Upper.mask.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/LastBuild.buildreport
+      fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
+      projectPath: Library/LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
+      projectPath: Library/PlayerDataCache/Data/globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+      projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/level0
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
+      projectPath: Library/PlayerDataCache/Data/level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+      projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/assetDatabase3
+      fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/il2cpp_stats/statistics.txt
+      fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
+      projectPath: Library/il2cpp_stats/statistics.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/apple/ARrival/Project/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 964f461a785b8ca5ee76f9e2c4e0a03731212d53
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Added_Textures_For_Alien
+    description: 'Added_Textures_For_Alien
+
+
+      added textures'
+    timeString: 2019-01-19T13:40:11.000-04:00
+    commitTimeString: 2019-01-19T13:40:11.000-04:00
+    changes:
+    - path: Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+      fullPath: /Users/apple/ARrival/Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+      projectPath: ../Textures/LowAlien_DefaultMaterial_AlbedoTransparency.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/LowAlien_DefaultMaterial_Normal.png
+      fullPath: /Users/apple/ARrival/Textures/LowAlien_DefaultMaterial_Normal.png
+      projectPath: ../Textures/LowAlien_DefaultMaterial_Normal.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+      fullPath: /Users/apple/ARrival/Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+      projectPath: ../Textures/LowAlien_DefaultMaterial_SpecularSmoothness.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: faa92650218c558b4a1531505775c674ac2ad98b
+    mergeA: 
+    mergeB: 
+    authorName: Unknown
+    authorEmail: dre.vivero@gmail.com
+    commitEmail: dre.vivero@gmail.com
+    commitName: Unknown
+    summary: 'Created Alien_IK as base. '
+    description: "Created Alien_IK as base. \n\nCreated back of hand gesture and point."
+    timeString: 2019-01-19T12:35:38.000-05:00
+    commitTimeString: 2019-01-19T12:35:38.000-05:00
+    changes:
+    - path: Animations/Alien_IK.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_IK.mb
+      projectPath: ../Animations/Alien_IK.mb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Alien_Point.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_Point.mb
+      projectPath: ../Animations/Alien_Point.mb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Back_Of_Hand.mb
+      fullPath: /Users/apple/ARrival/Animations/Back_Of_Hand.mb
+      projectPath: ../Animations/Back_Of_Hand.mb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Pinch_and_Back_Of_Hand.mb
+      fullPath: /Users/apple/ARrival/Animations/Pinch_and_Back_Of_Hand.mb
+      projectPath: ../Animations/Pinch_and_Back_Of_Hand.mb
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 08893301fd11b59e1d869dffdc7be61ec1728d37
+    mergeA: dda24ea65c480a9200809fdc17e94930b647ad59
+    mergeB: a7abcf4dfc93273194b64932cc0a1b8f1e0e7d7c
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T13:33:18.000-04:00
+    commitTimeString: 2019-01-19T13:33:18.000-04:00
+    changes: []
+  - commitID: dda24ea65c480a9200809fdc17e94930b647ad59
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Added Alien Idle Animation
+    description: 'Added Alien Idle Animation
+
+
+      Very Wiggly'
+    timeString: 2019-01-19T13:33:14.000-04:00
+    commitTimeString: 2019-01-19T13:33:14.000-04:00
+    changes:
+    - path: Animations/Alien_Idle.fbx
+      fullPath: /Users/apple/ARrival/Animations/Alien_Idle.fbx
+      projectPath: ../Animations/Alien_Idle.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Point_And_OK.mb
+      fullPath: /Users/apple/ARrival/Animations/Point_And_OK.mb
+      projectPath: ../Animations/Point_And_OK.mb
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: a7abcf4dfc93273194b64932cc0a1b8f1e0e7d7c
+    mergeA: 1aaf586def40f23886941147224f5487a98ee4aa
+    mergeB: 888ea68e8043938a5c4e3b778d3d7c0f68c5055d
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T11:52:17.000-05:00
+    commitTimeString: 2019-01-19T11:52:17.000-05:00
+    changes: []
   - commitID: 1aaf586def40f23886941147224f5487a98ee4aa
     mergeA: 
     mergeB: 
@@ -338,6 +716,149 @@ MonoBehaviour:
       projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
       originalPath: 
       status: 3
+      staged: 0
+  - commitID: 888ea68e8043938a5c4e3b778d3d7c0f68c5055d
+    mergeA: b0650f91bcd9beb178bcf06ee796e0a1c627d759
+    mergeB: 0ca81a5ef174a39b851bcbad96acb4fc2a02c2ca
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T12:50:10.000-04:00
+    commitTimeString: 2019-01-19T12:50:10.000-04:00
+    changes: []
+  - commitID: b0650f91bcd9beb178bcf06ee796e0a1c627d759
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Added_Pointing_Anim
+    description: 'Added_Pointing_Anim
+
+
+      Pointing pointing pointing'
+    timeString: 2019-01-19T12:49:55.000-04:00
+    commitTimeString: 2019-01-19T12:49:55.000-04:00
+    changes:
+    - path: Animations/Point_And_OK.mb
+      fullPath: /Users/apple/ARrival/Animations/Point_And_OK.mb
+      projectPath: ../Animations/Point_And_OK.mb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Point_And_Okay_Anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/Point_And_Okay_Anim.fbx
+      projectPath: ../Animations/Point_And_Okay_Anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 0ca81a5ef174a39b851bcbad96acb4fc2a02c2ca
+    mergeA: 
+    mergeB: 
+    authorName: Ali
+    authorEmail: alikfitz@gmail.com
+    commitEmail: alikfitz@gmail.com
+    commitName: Ali
+    summary: Added Title Card
+    description: Added Title Card
+    timeString: 2019-01-19T11:04:39.000-05:00
+    commitTimeString: 2019-01-19T11:04:39.000-05:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/apple/ARrival/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: UI/Title-Card-Arrival.png
+      fullPath: /Users/apple/ARrival/UI/Title-Card-Arrival.png
+      projectPath: ../UI/Title-Card-Arrival.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 45db23bec477cf49e344a21fc9cc30b3119cd950
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Alien Animation
+    description: 'Alien Animation
+
+
+      Added Alien animation file with IK'
+    timeString: 2019-01-19T11:01:13.000-04:00
+    commitTimeString: 2019-01-19T11:01:13.000-04:00
+    changes:
+    - path: Animations/Alien_Anim2.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_Anim2.mb
+      projectPath: ../Animations/Alien_Anim2.mb
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: UI/2019-01-19 10_49_16-Substance Painter 2018.1.1 - critter.png
+      fullPath: /Users/apple/ARrival/UI/2019-01-19 10_49_16-Substance Painter 2018.1.1
+        - critter.png
+      projectPath: ../UI/2019-01-19 10_49_16-Substance Painter 2018.1.1 - critter.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 8a6e838381e6a04e966044c17169fac7cd258a17
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: AddedUI folder
+    description: AddedUI folder
+    timeString: 2019-01-19T10:46:23.000-04:00
+    commitTimeString: 2019-01-19T10:46:23.000-04:00
+    changes:
+    - path: UI/2019-01-19 10_43_06-Substance Painter 2018.1.1 - critter.png
+      fullPath: /Users/apple/ARrival/UI/2019-01-19 10_43_06-Substance Painter 2018.1.1
+        - critter.png
+      projectPath: ../UI/2019-01-19 10_43_06-Substance Painter 2018.1.1 - critter.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: af46ecc46e17f43dd7635f2709be731ebc4611e6
+    mergeA: 081089d2fdf602e5be8d35ca5d71931be7097502
+    mergeB: 33da0b94cbed08c75e231fc6b6a22927bb8db8a0
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T10:33:12.000-04:00
+    commitTimeString: 2019-01-19T10:33:12.000-04:00
+    changes: []
+  - commitID: 081089d2fdf602e5be8d35ca5d71931be7097502
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Create MayaCleanBase.mb
+    description: 'Create MayaCleanBase.mb
+
+
+      added Maya FIle'
+    timeString: 2019-01-19T10:33:00.000-04:00
+    commitTimeString: 2019-01-19T10:33:00.000-04:00
+    changes:
+    - path: Animations/MayaCleanBase.mb
+      fullPath: /Users/apple/ARrival/Animations/MayaCleanBase.mb
+      projectPath: ../Animations/MayaCleanBase.mb
+      originalPath: 
+      status: 4
       staged: 0
   - commitID: 33da0b94cbed08c75e231fc6b6a22927bb8db8a0
     mergeA: cda432e1faa0fde6a10a514da4686f33ad268341

@@ -1,5 +1,5 @@
 <manifest xmlns:ml="magicleap" ml:developer_id="6f1886c5-eecd-4e01-a8ce-4dbf18f85844" ml:package="com.arrival.main" ml:version_code="1" ml:version_name="">
-  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="MagicLeap">
+  <application ml:min_api_level="3" ml:sdk_version="1.0" ml:visible_name="ARrival">
     <uses-privilege ml:name="LowLatencyLightwear" />
     <uses-privilege ml:name="AddressBookRead" />
     <uses-privilege ml:name="AddressBookWrite" />
@@ -26,7 +26,7 @@
     <uses-privilege ml:name="PowerInfo" />
     <uses-privilege ml:name="RegisterBackgroundMusicService" />
     <uses-privilege ml:name="VoiceInput" />
-    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="MagicLeap">
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="ARrival">
       <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
     </component>
   </application>
