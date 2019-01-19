@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MagicLeap/Examples/Scenes/Planes.unity
+  isLoaded: 1
+  isActive: 1

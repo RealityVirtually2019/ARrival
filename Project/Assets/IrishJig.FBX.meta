@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 6ab3db93308c84d099c9c938d6b0d813
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Body
+    100004: BottomTeeth
+    100006: Chest
+    100008: Head
+    100010: Hip
+    100012: //RootNode
+    100014: Jaw
+    100016: Left BigToe1
+    100018: Left BigToe2
+    100020: Left Collar
+    100022: Left Foot
+    100024: Left Forearm
+    100026: Left Glute
+    100028: Left Hand
+    100030: Left Index0
+    100032: Left Index1
+    100034: Left Index2
+    100036: Left Index3
+    100038: Left IndexToe1
+    100040: Left IndexToe2
+    100042: Left Mid0
+    100044: Left Mid1
+    100046: Left Mid2
+    100048: Left Mid3
+    100050: Left MidToe1
+    100052: Left MidToe2
+    100054: Left Pinky0
+    100056: Left Pinky1
+    100058: Left Pinky2
+    100060: Left Pinky3
+    100062: Left PinkyToe1
+    100064: Left PinkyToe2
+    100066: Left Ring0
+    100068: Left Ring1
+    100070: Left Ring2
+    100072: Left Ring3
+    100074: Left RingToe1
+    100076: Left RingToe2
+    100078: Left Shin
+    100080: Left Shoulder
+    100082: Left Thigh
+    100084: Left Thumb1
+    100086: Left Thumb2
+    100088: Left Thumb3
+    100090: Left Toe
+    100092: lEye
+    100094: Neck
+    100096: Pelvis
+    100098: Rex
+    100100: rEye
+    100102: Right BigToe1
+    100104: Right BigToe2
+    100106: Right Collar
+    100108: Right Foot
+    100110: Right Forearm
+    100112: Right Glute
+    100114: Right Hand
+    100116: Right Index0
+    100118: Right Index1
+    100120: Right Index2
+    100122: Right Index3
+    100124: Right IndexToe1
+    100126: Right IndexToe2
+    100128: Right Mid0
+    100130: Right Mid1
+    100132: Right Mid2
+    100134: Right Mid3
+    100136: Right MidToe1
+    100138: Right MidToe2
+    100140: Right Pinky0
+    100142: Right Pinky1
+    100144: Right Pinky2
+    100146: Right Pinky3
+    100148: Right PinkyToe1
+    100150: Right PinkyToe2
+    100152: Right Ring0
+    100154: Right Ring1
+    100156: Right Ring2
+    100158: Right Ring3
+    100160: Right RingToe1
+    100162: Right RingToe2
+    100164: Right Shin
+    100166: Right Shoulder
+    100168: Right Thigh
+    100170: Right Thumb1
+    100172: Right Thumb2
+    100174: Right Thumb3
+    100176: Right Toe
+    100178: Tongue1
+    100180: Tongue2
+    100182: Tongue3
+    100184: Tongue4
+    100186: Tongue5
+    100188: TopTeeth
+    100190: Waist
+    400000: Abdomen
+    400002: Body
+    400004: BottomTeeth
+    400006: Chest
+    400008: Head
+    400010: Hip
+    400012: //RootNode
+    400014: Jaw
+    400016: Left BigToe1
+    400018: Left BigToe2
+    400020: Left Collar
+    400022: Left Foot
+    400024: Left Forearm
+    400026: Left Glute
+    400028: Left Hand
+    400030: Left Index0
+    400032: Left Index1
+    400034: Left Index2
+    400036: Left Index3
+    400038: Left IndexToe1
+    400040: Left IndexToe2
+    400042: Left Mid0
+    400044: Left Mid1
+    400046: Left Mid2
+    400048: Left Mid3
+    400050: Left MidToe1
+    400052: Left MidToe2
+    400054: Left Pinky0
+    400056: Left Pinky1
+    400058: Left Pinky2
+    400060: Left Pinky3
+    400062: Left PinkyToe1
+    400064: Left PinkyToe2
+    400066: Left Ring0
+    400068: Left Ring1
+    400070: Left Ring2
+    400072: Left Ring3
+    400074: Left RingToe1
+    400076: Left RingToe2
+    400078: Left Shin
+    400080: Left Shoulder
+    400082: Left Thigh
+    400084: Left Thumb1
+    400086: Left Thumb2
+    400088: Left Thumb3
+    400090: Left Toe
+    400092: lEye
+    400094: Neck
+    400096: Pelvis
+    400098: Rex
+    400100: rEye
+    400102: Right BigToe1
+    400104: Right BigToe2
+    400106: Right Collar
+    400108: Right Foot
+    400110: Right Forearm
+    400112: Right Glute
+    400114: Right Hand
+    400116: Right Index0
+    400118: Right Index1
+    400120: Right Index2
+    400122: Right Index3
+    400124: Right IndexToe1
+    400126: Right IndexToe2
+    400128: Right Mid0
+    400130: Right Mid1
+    400132: Right Mid2
+    400134: Right Mid3
+    400136: Right MidToe1
+    400138: Right MidToe2
+    400140: Right Pinky0
+    400142: Right Pinky1
+    400144: Right Pinky2
+    400146: Right Pinky3
+    400148: Right PinkyToe1
+    400150: Right PinkyToe2
+    400152: Right Ring0
+    400154: Right Ring1
+    400156: Right Ring2
+    400158: Right Ring3
+    400160: Right RingToe1
+    400162: Right RingToe2
+    400164: Right Shin
+    400166: Right Shoulder
+    400168: Right Thigh
+    400170: Right Thumb1
+    400172: Right Thumb2
+    400174: Right Thumb3
+    400176: Right Toe
+    400178: Tongue1
+    400180: Tongue2
+    400182: Tongue3
+    400184: Tongue4
+    400186: Tongue5
+    400188: TopTeeth
+    400190: Waist
+    2100000: Rex_Nostrils
+    2100002: Rex_Eyesockets
+    2100004: Rex_Toenails
+    2100006: Rex_Fingernails
+    2100008: Rex_Lacrimals
+    2100010: Rex_InnerMouth
+    2100012: Rex_BottomEyelashes
+    2100014: Rex_TopEyelashes
+    2100016: Rex_Lips
+    2100018: Rex_Tongue
+    2100020: Rex_Head
+    2100022: Rex_Body
+    2100024: No Name
+    2300000: BottomTeeth
+    2300002: lEye
+    2300004: rEye
+    2300006: TopTeeth
+    3300000: BottomTeeth
+    3300002: lEye
+    3300004: rEye
+    3300006: TopTeeth
+    4300000: Rex
+    4300002: BottomTeeth
+    4300004: lEye
+    4300006: rEye
+    4300008: TopTeeth
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Rex
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
