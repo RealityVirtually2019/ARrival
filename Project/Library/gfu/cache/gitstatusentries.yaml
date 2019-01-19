@@ -12,6 +12,1002 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-18T18:58:04.933-05:00
-  initializedAtString: 2019-01-18T18:38:24.059-05:00
-  entries: []
+  lastUpdatedAtString: 2019-01-18T19:28:25.367-05:00
+  initializedAtString: 2019-01-18T19:18:59.984-05:00
+  entries:
+  - path: Project/Assembly-CSharp.csproj
+    fullPath: /Users/apple/ARrival/Project/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assembly-CSharp-Editor.csproj
+    fullPath: /Users/apple/ARrival/Project/Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/apple/ARrival/Project/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/KY_effects.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects.meta
+    projectPath: Assets/KY_effects.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/00_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/circle.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/darkBall_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/dust_b.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/explosion_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/fire_8x2.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/frame_ball_00.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Ground.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/hit_4x2.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Light.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/primitive.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_00000_8x2.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_coreb00000_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project1_in00000_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/project2_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/skill_6x2.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/skill_core_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/smoke_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/spark00.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/sphere.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Star.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/thander_core_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/Wall.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Materials/whity_b_4x4.mat.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/energyBlast.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/ErekiBall2.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/fireShot.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/frameBall.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/GreenCore.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/skillAttack2.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/Spark.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/00_primitive/WhityBomb.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/energyBlast.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/ErekiBall2.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/fireShot.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/frameBall.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/GreenCore.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/skillAttack2.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/Spark.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/prefab/WhityBomb.prefab.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/ReadMe.txt.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/scene.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/scene.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/scene.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/scene/Demo_fre.unity.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/00_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/bg.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/circle.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/dust_b.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/explosion_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/fire_8x2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/frame_ball_00.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/greenCore_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/hit_4x2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_00000_8x2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_coreb00000_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project1_in00000_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/project2_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_6x2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_core_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x2.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/skill_sw_4x3.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/smoke_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/spark00.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/Star.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/thander_core_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png.meta
+    projectPath: Assets/KY_effects/MagicEffectsPackFree/Textures/whity_4x4.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/Script.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/Script.meta
+    projectPath: Assets/KY_effects/Script.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/Script/ConGUI.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/Script/ConGUI.cs
+    projectPath: Assets/KY_effects/Script/ConGUI.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/Script/ConGUI.cs.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/Script/ConGUI.cs.meta
+    projectPath: Assets/KY_effects/Script/ConGUI.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/Script/Lighting.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/Script/Lighting.cs
+    projectPath: Assets/KY_effects/Script/Lighting.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/KY_effects/Script/Lighting.cs.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/KY_effects/Script/Lighting.cs.meta
+    projectPath: Assets/KY_effects/Script/Lighting.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Planes.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/assetDatabase3
+    fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/apple/ARrival/Project/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/ProjectSettings/UnityConnectSettings.asset
+    fullPath: /Users/apple/ARrival/Project/ProjectSettings/UnityConnectSettings.asset
+    projectPath: ProjectSettings/UnityConnectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
