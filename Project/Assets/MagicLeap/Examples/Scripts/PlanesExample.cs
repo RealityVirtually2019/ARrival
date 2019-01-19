@@ -142,10 +142,12 @@ namespace MagicLeap
             _planesComponent.transform.localScale = _bounded ? _boundedExtentsSize : _boundlessExtentsSize;
             _boundsWireframeCube.SetActive(_bounded);
 
+          
+            /*
             _boundedExtentsText.text = string.Format("Bounded Extents: ({0},{1},{2})",
                 _planesComponent.transform.localScale.x,
                 _planesComponent.transform.localScale.y,
-                _planesComponent.transform.localScale.z);
+                _planesComponent.transform.localScale.z);*/
         }
         #endregion
 
@@ -157,8 +159,8 @@ namespace MagicLeap
         /// <param name="planes"> Array of new boundaries. </param>
         public void OnPlanesUpdate(MLWorldPlane[] planes, MLWorldPlaneBoundaries[] boundaries)
         {
-            _numberOfPlanesText.text = string.Format("Number of Planes: {0}/{1}", planes.Length, _planesComponent.MaxPlaneCount);
-            _numberOfBoundariesText.text = string.Format("Number of Boundaries: {0}/{1}", boundaries.Length, _planesComponent.MaxPlaneCount);
+        //    _numberOfPlanesText.text = string.Format("Number of Planes: {0}/{1}", planes.Length, _planesComponent.MaxPlaneCount);
+         //   _numberOfBoundariesText.text = string.Format("Number of Boundaries: {0}/{1}", boundaries.Length, _planesComponent.MaxPlaneCount);
         }
 
         /// <summary>
@@ -194,7 +196,7 @@ namespace MagicLeap
         {
             if (mapEvents.IsLost())
             {
-                _numberOfPlanesText.text = string.Format("Number of Planes: 0/{0}", _planesComponent.MaxPlaneCount);
+              //  _numberOfPlanesText.text = string.Format("Number of Planes: 0/{0}", _planesComponent.MaxPlaneCount);
             }
         }
         #endregion

@@ -689,31 +689,15 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   luminPrivilege:
-  - AudioCaptureMic
-  - MusicService
   - GesturesConfig
   - GesturesSubscribe
   - WorldReconstruction
-  - VoiceInput
-  - Internet
-  - ScreensProvider
-  - InAppPurchase
-  - IdentityRead
-  - ControllerPose
-  - ConnectBackgroundMusicService
-  - BackgroundDownload
-  - BatteryInfo
-  - BackgroundUpload
   - DrmCertificates
   - NormalNotificationsUsage
-  - PowerInfo
-  - RegisterBackgroundMusicService
-  - AudioRecognizer
-  - CameraCapture
-  - AddressBookWrite
-  - AddressBookRead
   - PwFoundObjRead
   - LocalAreaNetwork
+  - ControllerPose
+  - MusicService
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2

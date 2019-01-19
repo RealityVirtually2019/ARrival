@@ -7,6 +7,11 @@ public class Alien : MonoBehaviour {
     public Animator AlienAni;
     public Transform parentOutside;
     public Transform mainPlayer;
+    public Transform shootPoint;
+    public GameObject orbit;
+    public Player player;
+    public bool[] GestureSign = new bool[8];
+
 
 
 
@@ -16,9 +21,9 @@ public class Alien : MonoBehaviour {
     //public SpriteRenderer[] allHints;
 	// Use this for initialization
 	void Start () {
-        //AlienAni = this.GetComponent<Animator>();
+        AlienAni = this.GetComponent<Animator>();
 
-
+        StartCoroutine(DelayTesting());
         //MLHandKeyPose.Thumb
 
 
@@ -26,10 +31,33 @@ public class Alien : MonoBehaviour {
     }
 
 
+    IEnumerator DelayTesting(){
+        yield return new WaitForSeconds(3);
+        Shoot(0);
+
+
+    }
+
+
+
+
+    public void Shoot(int g){
+        AlienAni.SetInteger("Gesture",g);
+        AlienAni.SetBool("Shoot",true);
+
+    }
+
+
+
+
+
+
     public void sendOutMsg(){
-
-
-
+        AlienAni.SetBool("Shoot", false);
+        GameObject o= Instantiate(orbit,shootPoint.position,Quaternion.identity) as GameObject;
+        Msgorbit m= o.GetComponent<Msgorbit>();
+        m.SendOutFromAlien = true;
+        m.SendOutmsg(player.transform);
 
     }
 
@@ -46,28 +74,15 @@ public class Alien : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (Input.GetKey(KeyCode.Alpha1))
-            controlGesture(1);
-        if (Input.GetKey(KeyCode.Alpha2))
-            controlGesture(2);
-        if (Input.GetKey(KeyCode.Alpha3))
-            controlGesture(3);
-
-
+     
+        transform.LookAt(new Vector3(mainPlayer.position.x, this.transform.position.y, mainPlayer.position.z));
 
 
 	}
 
-    /*
-    void setHint(int hindex ,bool onoff){
-        if(onoff){
-            allHints[hindex].color = new Color(1.0f, 0, 0);
-        }else{
-            allHints[hindex].color = new Color(0, 0, 0);
-        }
 
 
-    }*/
+
 
 
 

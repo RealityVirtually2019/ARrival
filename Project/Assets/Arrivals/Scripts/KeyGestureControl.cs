@@ -10,7 +10,7 @@ public class KeyGestureControl : MonoBehaviour {
 
     public bool _trackLeftHand = true;
     public bool _trackRightHand = true;
-    public float threadshold = 0.0f;
+    public float threadshold = 0.15f;
 
     public bool isOk;
 
@@ -31,6 +31,8 @@ public class KeyGestureControl : MonoBehaviour {
         if (confidenceValue > threadshold)
         {
             isOk = true;
+            transform.parent.gameObject.BroadcastMessage("Sending");
+
 
 
         }else{

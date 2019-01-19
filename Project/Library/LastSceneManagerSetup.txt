@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MagicLeap/Examples/Scenes/Planes.unity
+- path: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
   isLoaded: 1
   isActive: 1
