@@ -12,18 +12,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T09:14:16.551-05:00
+  lastUpdatedAtString: 2019-01-19T09:15:31.101-05:00
   initializedAtString: 2019-01-18T19:18:59.984-05:00
   entries:
   - path: Project/Library/gfu/cache/branches.yaml
     fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/gfu/cache/gitstatusentries.yaml
-    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
-    projectPath: Library/gfu/cache/gitstatusentries.yaml
     originalPath: 
     status: 3
     staged: 0
