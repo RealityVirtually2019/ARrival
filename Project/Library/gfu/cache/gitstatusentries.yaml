@@ -12,12 +12,168 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T09:15:38.971-05:00
+  lastUpdatedAtString: 2019-01-19T11:49:40.734-05:00
   initializedAtString: 2019-01-18T19:18:59.984-05:00
   entries:
+  - path: .DS_Store
+    fullPath: /Users/apple/ARrival/.DS_Store
+    projectPath: ../.DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.DS_Store
+    fullPath: /Users/apple/ARrival/Project/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+    fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+    projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.out/bin/libil2cpp.so
+    fullPath: /Users/apple/ARrival/Project/.out/bin/libil2cpp.so
+    projectPath: .out/bin/libil2cpp.so
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/.out/com.arrival.main.mpk
+    fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
+    projectPath: .out/com.arrival.main.mpk
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assembly-CSharp.csproj
+    fullPath: /Users/apple/ARrival/Project/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles.meta
+    projectPath: Assets/Arrivals/ART/Modles.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/UI Elements.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/UI Elements.meta
+    projectPath: Assets/Arrivals/ART/UI Elements.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/UI Elements/DownArrow.png
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/UI Elements/DownArrow.png
+    projectPath: Assets/Arrivals/ART/UI Elements/DownArrow.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/UI Elements/DownArrow.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/UI Elements/DownArrow.png.meta
+    projectPath: Assets/Arrivals/ART/UI Elements/DownArrow.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/UI Elements/Title-UI.png
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/UI Elements/Title-UI.png
+    projectPath: Assets/Arrivals/ART/UI Elements/Title-UI.png
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/UI Elements/Title-UI.png.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/UI Elements/Title-UI.png.meta
+    projectPath: Assets/Arrivals/ART/UI Elements/Title-UI.png.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/Alien.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Alien.cs
+    projectPath: Assets/Arrivals/Scripts/Alien.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/Msgorbit.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Msgorbit.cs
+    projectPath: Assets/Arrivals/Scripts/Msgorbit.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/Msgorbit.cs.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Msgorbit.cs.meta
+    projectPath: Assets/Arrivals/Scripts/Msgorbit.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/ARrivalsMain.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+    projectPath: Assets/ARrivalsMain.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+    projectPath: Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/assetDatabase3
+    fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Project/Library/gfu/cache/branches.yaml
     fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
     projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
     originalPath: 
     status: 3
     staged: 0
@@ -30,6 +186,144 @@ MonoBehaviour:
   - path: Project/Library/gfu/cache/gittrackingstatus.yaml
     fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
     projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/il2cpp_stats/statistics.txt
+    fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
+    projectPath: Library/il2cpp_stats/statistics.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/LastBuild.buildreport
+    fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
+    projectPath: Library/LastBuild.buildreport
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+    projectPath: Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+    projectPath: Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
+    projectPath: Library/PlayerDataCache/Data/globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+    projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/level0
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
+    projectPath: Library/PlayerDataCache/Data/level0
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets.resS
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+    projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler1.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler1.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler2.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler2.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler3.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler3.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler4.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler4.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler5.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler5.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler6.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler6.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/shadercompiler-UnityShaderCompiler7.log
+    fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler7.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: /Users/apple/ARrival/Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
     originalPath: 
     status: 3
     staged: 0

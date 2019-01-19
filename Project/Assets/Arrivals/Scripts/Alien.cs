@@ -8,6 +8,10 @@ public class Alien : MonoBehaviour {
     public Transform parentOutside;
     public Transform mainPlayer;
 
+
+
+
+
   //  public MLHandKeyPose _HandKeyPose;
     //public SpriteRenderer[] allHints;
 	// Use this for initialization
@@ -16,6 +20,14 @@ public class Alien : MonoBehaviour {
 
 
         //MLHandKeyPose.Thumb
+
+
+
+    }
+
+
+    public void sendOutMsg(){
+
 
 
 

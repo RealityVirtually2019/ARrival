@@ -12,9 +12,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-19T09:15:41.985-05:00
+  lastUpdatedAtString: 2019-01-19T09:18:30.524-05:00
   initializedAtString: 2019-01-18T19:45:52.329-05:00
   log:
+  - commitID: 33da0b94cbed08c75e231fc6b6a22927bb8db8a0
+    mergeA: cda432e1faa0fde6a10a514da4686f33ad268341
+    mergeB: b7838b2b4dda315875fdeca252be2f554835d36a
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T09:17:15.000-05:00
+    commitTimeString: 2019-01-19T09:17:15.000-05:00
+    changes: []
+  - commitID: cda432e1faa0fde6a10a514da4686f33ad268341
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: TEST
+    description: TEST
+    timeString: 2019-01-19T09:16:58.000-05:00
+    commitTimeString: 2019-01-19T09:16:58.000-05:00
+    changes:
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: e5a7194b0f64e24e5448772024685769e79be2b3
     mergeA: 
     mergeB: 
@@ -1079,6 +1127,27 @@ MonoBehaviour:
       projectPath: ProjectSettings/UnityConnectSettings.asset
       originalPath: 
       status: 3
+      staged: 0
+  - commitID: b7838b2b4dda315875fdeca252be2f554835d36a
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Create hop_cycle.fbx
+    description: 'Create hop_cycle.fbx
+
+
+      Added a hopping cycle'
+    timeString: 2019-01-19T09:56:54.000-04:00
+    commitTimeString: 2019-01-19T09:56:54.000-04:00
+    changes:
+    - path: Animations/hop_cycle.fbx
+      fullPath: /Users/apple/ARrival/Animations/hop_cycle.fbx
+      projectPath: ../Animations/hop_cycle.fbx
+      originalPath: 
+      status: 4
       staged: 0
   - commitID: 8f7b1290991ac60e77f5289fd7f2305d4c6a016c
     mergeA: 
