@@ -171,13 +171,14 @@ namespace MagicLeap
             if (_controllerConnectionHandler.IsControllerValid(controllerId) && button == MLInputControllerButton.HomeTap)
             {
                 _bounded = !_bounded;
-                UpdateBounds();
+               // UpdateBounds();
             }
 
             if (_controllerConnectionHandler.IsControllerValid(controllerId) && button == MLInputControllerButton.Bumper)
             {
                 alien.changetoOutside();
                 portal.changetoOutside();
+                _planesComponent.enabled = false;
                 cursorMesh.enabled = false;
             }
 

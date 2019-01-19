@@ -155,7 +155,9 @@
     <None Include="Assets\MagicLeap\Examples\Documentation\Placement.txt" />
     <None Include="Assets\MagicLeap\CoreComponents\Vignette\Vignette.shader" />
     <None Include="Assets\MagicLeap\Examples\Documentation\Meshing.txt" />
+    <None Include="Assets\Free Pack\Metal Loop Pack\readme Unity.txt" />
     <None Include="Assets\MagicLeap\Examples\Plugins\Lumin\manifest.xml" />
+    <None Include="Assets\Free Pack\Door SFX Pack\Readme.txt" />
     <None Include="Assets\MagicLeap\Examples\Shaders\UnlitColorTransparent.shader" />
     <None Include="Assets\MagicLeap\Examples\Shaders\BasicWorldSpace.shader" />
     <None Include="Assets\MagicLeap\Examples\Documentation\Vignette.txt" />
@@ -164,10 +166,13 @@
     <None Include="Assets\KY_effects\MagicEffectsPackFree\ReadMe.txt" />
     <None Include="Assets\MagicLeap\Examples\Documentation\VideoCapture.txt" />
     <None Include="Assets\MagicLeap\Examples\Documentation\Persistence.txt" />
+    <None Include="Assets\Free Pack\Rock Loops Pack\Unity Readme.txt" />
+    <None Include="Assets\Free Pack\Tropical Moments\Tropical Moments readme.txt" />
     <None Include="Assets\MagicLeap\Examples\Shaders\WorldXZWithColor.shader" />
     <None Include="Assets\MagicLeap\Examples\Shaders\MeshWorldSpace.shader" />
     <None Include="Assets\MagicLeap\BackgroundMusicExample\music_manifest.xml" />
     <None Include="Assets\MagicLeap\Examples\Shaders\WorldXZWithLerp.shader" />
+    <None Include="Assets\Free Pack\Rock Stingers Pack\Unity Readme.txt" />
     <None Include="Assets\MagicLeap\Libs\LuminUnity.xml" />
     <None Include="Assets\MagicLeap\Examples\Documentation\ImageCapture.txt" />
     <None Include="Assets\MagicLeap\Examples\Documentation\Raycast.txt" />
