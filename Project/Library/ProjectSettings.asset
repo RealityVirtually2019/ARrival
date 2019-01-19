@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: MagicLeap
+  companyName: 2019MITRVHackthon
+  productName: ARrival
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -156,7 +156,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Lumin: com.arrival.test
+    Lumin: com.arrival.main
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
@@ -676,44 +676,28 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 0
+    UNet: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: /Users/apple/Desktop/MyWork/MagicLeap/privatekey (1)/arrivals2.cert
+    m_CertPath: /Users/apple/ARrival/Project/privatekey (1)/arrivals2.cert
     m_PrivateKeyPath: 
   luminIsChannelApp: 0
   luminVersion:
     m_VersionCode: 1
     m_VersionName: 
   luminPrivilege:
-  - AudioCaptureMic
-  - MusicService
   - GesturesConfig
   - GesturesSubscribe
   - WorldReconstruction
-  - VoiceInput
-  - Internet
-  - ScreensProvider
-  - InAppPurchase
-  - IdentityRead
-  - ControllerPose
-  - ConnectBackgroundMusicService
-  - BackgroundDownload
-  - BatteryInfo
-  - BackgroundUpload
   - DrmCertificates
   - NormalNotificationsUsage
-  - PowerInfo
-  - RegisterBackgroundMusicService
-  - AudioRecognizer
-  - CameraCapture
-  - AddressBookWrite
-  - AddressBookRead
   - PwFoundObjRead
   - LocalAreaNetwork
+  - ControllerPose
+  - MusicService
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
