@@ -1,0 +1,42 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 25.08.2017 00:26:00
+
+newmtl spec__323232_28_black__wf_24_LRFY1920
+	Ns 28.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.1961 0.1961 0.1961
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__0f0f0f_18_wood_tex_wf_28_LRFY1920
+	Ns 18.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5373 0.1961 0.1961
+	Kd 0.5373 0.1961 0.1961
+	Ks 0.0588 0.0588 0.0588
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./wood_map_10_1024.jpg
+	map_Kd ./wood_map_10_1024.jpg
+
+newmtl shadow_mtl_LRFY1920
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LRFY1920_shadow_plane_v6.png
+	map_Kd ./LRFY1920_shadow_plane_v6.png

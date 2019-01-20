@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 02.12.2017 22:22:10
+
+newmtl spec__000000_39_Material_11_wf_11_CSTD2801
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_Material_11_wf_11_CSTD2801_VRayDirt_String.jpg
+	map_Kd ./spec__000000_39_Material_11_wf_11_CSTD2801_VRayDirt_String.jpg
+
+newmtl spec__080808_39_Material_12_wf_100_CSTD2801
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__080808_39_Material_12_wf_100_CSTD2801_VRayDirt_String.jpg
+	map_Kd ./spec__080808_39_Material_12_wf_100_CSTD2801_VRayDirt_String.jpg
+
+newmtl shadow_mtl_CSTD2801
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./CSTD2801_shadow_plane_v6.png
+	map_Kd ./CSTD2801_shadow_plane_v6.png

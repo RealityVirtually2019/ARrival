@@ -1,0 +1,60 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 13.04.2018 16:25:58
+
+newmtl spec__000000_39_Material_2142147576_wf_5_LATR8439
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_Material_2142147576_wf_5_LATR8439_Mix_Map__21.jpg
+	map_Kd ./spec__000000_39_Material_2142147576_wf_5_LATR8439_Mix_Map__21.jpg
+	map_bump ./spec__000000_39_Material_2142147576_wf_5_LATR8439_Color_Correction_Map__19_Normal_Bump.jpg
+
+newmtl spec__434343_4_Wood_wf_69_LATR8439
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.2627 0.2627 0.2627
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LATR8439_Wood_Color_1024.jpg
+	map_Kd ./LATR8439_Wood_Color_1024.jpg
+	map_bump ./LATR8439_Wood_Bump_1024_normal_Normal_Bump.jpg
+
+newmtl spec__000000_39_stitch_wf_73_LATR8439
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.0000 0.0000 0.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_39_stitch_wf_73_LATR8439_Color_Correction_Map__18.jpg
+	map_Kd ./spec__000000_39_stitch_wf_73_LATR8439_Color_Correction_Map__18.jpg
+
+newmtl shadow_mtl_LATR8439
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LATR8439_shadow_plane_v6.png
+	map_Kd ./LATR8439_shadow_plane_v6.png
