@@ -10,35 +10,29 @@ public class Alien : MonoBehaviour {
     public Transform shootPoint;
     public GameObject orbit;
     public Player player;
-
+    public AudioClip Happy, Angry, idle;
+    public AudioClip[] message;
+    public int[] GesturePoint = new int[5]
+        ;
+    public float critePoint;
+    public AudioSource ads;
     public float FollowRange;
 
-
-
+    int reactScore=0;
+    public int PlayScore=0;
     public bool[] GestureSign = new bool[8];
 
 
-
-
-
-
-  //  public MLHandKeyPose _HandKeyPose;
-    //public SpriteRenderer[] allHints;
-	// Use this for initialization????'[''
+ 
 	void Start () {
         AlienAni = this.GetComponent<Animator>();
-
-       // StartCoroutine(DelayTesting());
-        //MLHandKeyPose.Thumb
-
-
 
     }
 
 
     IEnumerator DelaySaying(){
         yield return new WaitForSeconds(Random.Range(3,15));
-        Shoot((int)Random.Range(0,4));
+        Shoot((int)Random.Range(0,5));
         yield return new WaitForSeconds(5f);
         Say = false;
     }
@@ -49,7 +43,7 @@ public class Alien : MonoBehaviour {
     public void Shoot(int g){
         AlienAni.SetInteger("Gesture",g);
         AlienAni.SetBool("Shoot",true);
-
+        reactScore = GesturePoint[g];
     }
 
 
@@ -103,10 +97,15 @@ public class Alien : MonoBehaviour {
 
 
 
-
+    bool waitreset;
 
     public void sendOutMsg(){
-        AlienAni.SetBool("Shoot", false);
+        if(!waitreset){
+            waitreset=true;
+            StartCoroutine(delayRestShot());
+
+
+        }
         GameObject o= Instantiate(orbit,shootPoint.position,Quaternion.identity) as GameObject;
         Msgorbit m= o.GetComponent<Msgorbit>();
         m.SendOutFromAlien = true;
@@ -115,6 +114,15 @@ public class Alien : MonoBehaviour {
     }
 
 
+
+
+
+    IEnumerator delayRestShot(){
+        yield return new WaitForSeconds(3);
+        AlienAni.SetBool("Shoot", false);
+        waitreset = false;
+
+    }
 
     public void changetoOutside(){
 
@@ -134,10 +142,18 @@ public class Alien : MonoBehaviour {
 	}
 
 
-    public void doReaction(){
+    public void doReaction(int score){
+
+        reactScore += score;
+
+
+        if(reactScore>2)
         AlienAni.SetTrigger("Happy");
+        else 
+            AlienAni.SetTrigger("Anger");
 
 
+        reactScore = 0;
 
     }
 

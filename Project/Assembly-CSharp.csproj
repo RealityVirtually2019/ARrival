@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Arrivals\Scripts\Alien.cs" />
+    <Compile Include="Assets\Arrivals\Scripts\DIO.cs" />
     <Compile Include="Assets\Arrivals\Scripts\KeyGestureControl.cs" />
     <Compile Include="Assets\Arrivals\Scripts\Msgorbit.cs" />
     <Compile Include="Assets\Arrivals\Scripts\Player.cs" />

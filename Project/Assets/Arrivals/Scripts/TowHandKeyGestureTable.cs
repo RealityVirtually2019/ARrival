@@ -9,11 +9,11 @@ public class TowHandKeyGestureTable : MonoBehaviour {
     public GameObject Right, Left;
     public bool isSending;
     public Player player;
+    public int[] Scores = new int[8]; 
 
-
-     KeyGestureControl[] RightHandGestures;
-     KeyGestureControl[] LeftHandGestures;
-
+    KeyGestureControl[] RightHandGestures;
+    KeyGestureControl[] LeftHandGestures;
+    public int point;
 
 	// Use this for initialization
 	void Start () {
@@ -44,16 +44,23 @@ public class TowHandKeyGestureTable : MonoBehaviour {
         isSending = false;
         player.updateHandTable(HandsGesture);
         bool toShoot=false;
+
+        point = 0;
+
+
         for (int i = 0; i < HandsGesture.Length;i++){
 
             if (HandsGesture[i])
             {
                 toShoot = true;
-                break;
+                point += Scores[i];
             }
+
+
+
         }
 
-            if(toShoot) player.Shoot();
+        if(toShoot) player.Shoot(point);
 
     }
 
@@ -64,7 +71,6 @@ public class TowHandKeyGestureTable : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-
 
         for (int i = 0; i < LeftHandGestures.Length;i++){
 

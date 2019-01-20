@@ -18,11 +18,12 @@ public class Player : MonoBehaviour {
 		
 	}
 
-    public void Shoot(){
+    public void Shoot(int Score){
         if(!isending){
             isending = true;
             GameObject o = Instantiate(Orbit, transform.position, Quaternion.identity) as GameObject;
             Msgorbit b = o.GetComponent<Msgorbit>();
+            b.Point = Score;
             b.SendOutmsg(alien.transform);
             StartCoroutine(reset());
         }

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T22:06:21.446-05:00
+  lastUpdatedAtString: 2019-01-20T02:17:12.002-05:00
   initializedAtString: 2019-01-19T17:57:06.896-05:00
   entries:
   - path: .DS_Store
@@ -21,39 +21,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
-    fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
-    projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+  - path: Animations/Final_Animations/.DS_Store
+    fullPath: /Users/apple/ARrival/Animations/Final_Animations/.DS_Store
+    projectPath: ../Animations/Final_Animations/.DS_Store
     originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
-    fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
-    projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/.out/bin/libil2cpp.so
-    fullPath: /Users/apple/ARrival/Project/.out/bin/libil2cpp.so
-    projectPath: .out/bin/libil2cpp.so
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/.out/com.arrival.main.mpk
-    fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
-    projectPath: .out/com.arrival.main.mpk
-    originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Project/Assembly-CSharp.csproj
     fullPath: /Users/apple/ARrival/Project/Assembly-CSharp.csproj
     projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Materials/MSGBall.mat
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Materials/MSGBall.mat
-    projectPath: Assets/Arrivals/ART/Materials/MSGBall.mat
     originalPath: 
     status: 3
     staged: 0
@@ -63,45 +39,94 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Animations/hop_cycle.fbx.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/happy2_anim.fbx.meta
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/angrywiggles_anim.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/angrywiggles_anim.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/RandomAction_1.fbx.meta
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/sad.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx
     originalPath: 
     status: 1
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/sad.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx.meta
     originalPath: 
     status: 1
     staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/VeryHappy.fbx.meta
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/yablewit_anim.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+      reinforcement/yablewit_anim.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/Flipping_With_Joy.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/happy2_anim.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx.meta
+    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Positive_Reinforcement/VeryHappy.fbx.meta
     originalPath: 
     status: 1
     staged: 0
@@ -111,11 +136,167 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Project/Assets/Arrivals/Scripts/DIO.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/DIO.cs
+    projectPath: Assets/Arrivals/Scripts/DIO.cs
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/DIO.cs.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/DIO.cs.meta
+    projectPath: Assets/Arrivals/Scripts/DIO.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
   - path: Project/Assets/Arrivals/Scripts/Msgorbit.cs
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Msgorbit.cs
     projectPath: Assets/Arrivals/Scripts/Msgorbit.cs
     originalPath: 
     status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/Player.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Player.cs
+    projectPath: Assets/Arrivals/Scripts/Player.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
+    projectPath: Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/BackOfHand_mixdown.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/BackOfHand_mixdown.wav
+    projectPath: Assets/Arrivals/Sound/BackOfHand_mixdown.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/BackOfHand_mixdown.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/BackOfHand_mixdown.wav.meta
+    projectPath: Assets/Arrivals/Sound/BackOfHand_mixdown.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/end-portal.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/end-portal.wav
+    projectPath: Assets/Arrivals/Sound/end-portal.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/end-portal.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/end-portal.wav.meta
+    projectPath: Assets/Arrivals/Sound/end-portal.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error1.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error1.wav
+    projectPath: Assets/Arrivals/Sound/error1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error1.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error1.wav.meta
+    projectPath: Assets/Arrivals/Sound/error1.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error2.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error2.wav
+    projectPath: Assets/Arrivals/Sound/error2.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error2.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error2.wav.meta
+    projectPath: Assets/Arrivals/Sound/error2.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error3.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error3.wav
+    projectPath: Assets/Arrivals/Sound/error3.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error3.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error3.wav.meta
+    projectPath: Assets/Arrivals/Sound/error3.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error4.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error4.wav
+    projectPath: Assets/Arrivals/Sound/error4.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/error4.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/error4.wav.meta
+    projectPath: Assets/Arrivals/Sound/error4.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/frustrated.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/frustrated.wav
+    projectPath: Assets/Arrivals/Sound/frustrated.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/frustrated.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/frustrated.wav.meta
+    projectPath: Assets/Arrivals/Sound/frustrated.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/happy.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/happy.wav
+    projectPath: Assets/Arrivals/Sound/happy.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/happy.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/happy.wav.meta
+    projectPath: Assets/Arrivals/Sound/happy.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/idle-loop.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/idle-loop.wav
+    projectPath: Assets/Arrivals/Sound/idle-loop.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/idle-loop.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/idle-loop.wav.meta
+    projectPath: Assets/Arrivals/Sound/idle-loop.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/Intro_temp 1.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/Intro_temp 1.wav
+    projectPath: Assets/Arrivals/Sound/Intro_temp 1.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/Intro_temp 1.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/Intro_temp 1.wav.meta
+    projectPath: Assets/Arrivals/Sound/Intro_temp 1.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/portal.wav
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/portal.wav
+    projectPath: Assets/Arrivals/Sound/portal.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Project/Assets/Arrivals/Sound/portal.wav.meta
+    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/portal.wav.meta
+    projectPath: Assets/Arrivals/Sound/portal.wav.meta
+    originalPath: 
+    status: 1
     staged: 0
   - path: Project/Assets/ARrivalsMain.unity
     fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
@@ -123,17 +304,17 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assets/RandomHappy.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/RandomHappy.cs
-    projectPath: Assets/RandomHappy.cs
+  - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+    projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
-  - path: Project/Assets/RandomHappy.cs.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/RandomHappy.cs.meta
-    projectPath: Assets/RandomHappy.cs.meta
+  - path: Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+    projectPath: Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Project/Library/assetDatabase3
     fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
@@ -171,21 +352,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/il2cpp_stats/statistics.txt
-    fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
-    projectPath: Library/il2cpp_stats/statistics.txt
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Project/Library/InspectorExpandedItems.asset
     fullPath: /Users/apple/ARrival/Project/Library/InspectorExpandedItems.asset
     projectPath: Library/InspectorExpandedItems.asset
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/LastBuild.buildreport
-    fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
-    projectPath: Library/LastBuild.buildreport
     originalPath: 
     status: 3
     staged: 0
@@ -195,51 +364,9 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
-    projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
-    projectPath: Library/PlayerDataCache/Data/globalgamemanagers
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
-    projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/level0
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
-    projectPath: Library/PlayerDataCache/Data/level0
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
-    projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
-    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
-    projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
+  - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+    projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
     originalPath: 
     status: 3
     staged: 0

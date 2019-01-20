@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Msgorbit : MonoBehaviour {
     Transform target=null;
-
     AudioSource audioSource;
     public AudioClip audioClip;
     public ParticleSystem particleSystem;
     public bool SendOutFromAlien;
-   
+    public int Point; 
 
     public void SendOutmsg(Transform t){
 
@@ -46,7 +45,10 @@ private void OnCollisionEnter(Collision collision)
         
         if(collision.gameObject.tag=="Alien"  && !SendOutFromAlien){
 
-            collision.gameObject.BroadcastMessage("doReaction");
+
+
+
+            collision.gameObject.GetComponent<Alien>().doReaction(Point);
             Destroy(this.gameObject);
 
 
