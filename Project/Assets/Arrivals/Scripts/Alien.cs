@@ -10,6 +10,11 @@ public class Alien : MonoBehaviour {
     public Transform shootPoint;
     public GameObject orbit;
     public Player player;
+
+    public float FollowRange;
+
+
+
     public bool[] GestureSign = new bool[8];
 
 
@@ -19,11 +24,11 @@ public class Alien : MonoBehaviour {
 
   //  public MLHandKeyPose _HandKeyPose;
     //public SpriteRenderer[] allHints;
-	// Use this for initialization
+	// Use this for initialization????'[''
 	void Start () {
         AlienAni = this.GetComponent<Animator>();
 
-        StartCoroutine(DelayTesting());
+       // StartCoroutine(DelayTesting());
         //MLHandKeyPose.Thumb
 
 
@@ -31,11 +36,11 @@ public class Alien : MonoBehaviour {
     }
 
 
-    IEnumerator DelayTesting(){
-        yield return new WaitForSeconds(3);
-        Shoot(0);
-
-
+    IEnumerator DelaySaying(){
+        yield return new WaitForSeconds(Random.Range(3,15));
+        Shoot((int)Random.Range(0,4));
+        yield return new WaitForSeconds(5f);
+        Say = false;
     }
 
 
@@ -46,6 +51,54 @@ public class Alien : MonoBehaviour {
         AlienAni.SetBool("Shoot",true);
 
     }
+
+
+
+    public void FollowPlayer(){
+
+        transform.LookAt(new Vector3(mainPlayer.position.x, this.transform.position.y, mainPlayer.position.z));
+
+        if(Vector3.Distance(transform.position,player.transform.position)>FollowRange)
+        {
+            transform.Translate(new Vector3(0,0,0.005f));
+
+            AlienAni.SetBool("Walk",true);
+
+        }else{
+
+            AlienAni.SetBool("Walk", false);
+            RandomSaying();
+
+        }
+
+
+
+
+
+    }
+    bool Say=false;
+
+
+    public void RandomSaying(){
+
+        if (!Say)
+        {
+
+            Say = true;
+
+
+            StartCoroutine(DelaySaying());
+
+
+
+
+        }
+    }
+
+
+
+
+
 
 
 
@@ -74,15 +127,19 @@ public class Alien : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-     
-        transform.LookAt(new Vector3(mainPlayer.position.x, this.transform.position.y, mainPlayer.position.z));
 
+        FollowPlayer();
+        //if(Vector3.Distance())
 
 	}
 
 
+    public void doReaction(){
+        AlienAni.SetTrigger("Happy");
 
 
+
+    }
 
 
 

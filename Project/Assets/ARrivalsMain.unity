@@ -2407,6 +2407,7 @@ MonoBehaviour:
   shootPoint: {fileID: 1924488002}
   orbit: {fileID: 1579101156473134, guid: c9a168d040f7e4e749bbb42043359ffa, type: 2}
   player: {fileID: 1225893275}
+  FollowRange: 2.5
   GestureSign: 0000000000000000
 --- !u!65 &1887152034
 BoxCollider:

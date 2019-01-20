@@ -33,7 +33,7 @@ public class Msgorbit : MonoBehaviour {
         if (target != null)
         {
             transform.LookAt(target);
-            transform.Translate(new Vector3(0, 0, 0.008f));
+            transform.Translate(new Vector3(0, 0, 0.01f));
         }
 		
 	}
@@ -45,8 +45,8 @@ private void OnCollisionEnter(Collision collision)
     {
         
         if(collision.gameObject.tag=="Alien"  && !SendOutFromAlien){
-            
 
+            collision.gameObject.BroadcastMessage("doReaction");
             Destroy(this.gameObject);
 
 

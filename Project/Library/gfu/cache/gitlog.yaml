@@ -12,9 +12,1502 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-19T17:21:31.312-05:00
-  initializedAtString: 2019-01-19T17:21:31.178-05:00
+  lastUpdatedAtString: 2019-01-19T19:12:15.492-05:00
+  initializedAtString: 2019-01-19T19:07:35.305-05:00
   log:
+  - commitID: 86145434236666b55d2b3df8c8c48e61b7d9a1f5
+    mergeA: bab4e62a00d768b510b2ce8cc827d15f92da21cd
+    mergeB: 99ccc6bbf10fa02c3f28f2f23326760d2b84f7c5
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T20:10:17.000-04:00
+    commitTimeString: 2019-01-19T20:10:17.000-04:00
+    changes: []
+  - commitID: 99ccc6bbf10fa02c3f28f2f23326760d2b84f7c5
+    mergeA: 3ce6ec510066d6455a506809cd89dc9fd5d3e75e
+    mergeB: 29a4d2ff41b665a80df22ffa5cb58947148590af
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T19:05:07.000-05:00
+    commitTimeString: 2019-01-19T19:05:07.000-05:00
+    changes: []
+  - commitID: 3ce6ec510066d6455a506809cd89dc9fd5d3e75e
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: WIP1904
+    description: WIP1904
+    timeString: 2019-01-19T19:04:44.000-05:00
+    commitTimeString: 2019-01-19T19:04:44.000-05:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/apple/ARrival/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.DS_Store
+      fullPath: /Users/apple/ARrival/Project/.DS_Store
+      projectPath: .DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/bin/libil2cpp.so
+      fullPath: /Users/apple/ARrival/Project/.out/bin/libil2cpp.so
+      projectPath: .out/bin/libil2cpp.so
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/com.arrival.main.mpk
+      fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
+      projectPath: .out/com.arrival.main.mpk
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/ARrivalsMain.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+      projectPath: Assets/ARrivalsMain.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Materials/MSGBall.mat
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Materials/MSGBall.mat
+      projectPath: Assets/Arrivals/ART/Materials/MSGBall.mat
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/Prefab/Orbitmessage.prefab
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Prefab/Orbitmessage.prefab
+      projectPath: Assets/Arrivals/Prefab/Orbitmessage.prefab
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/Scripts/Player.cs
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Player.cs
+      projectPath: Assets/Arrivals/Scripts/Player.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Controller.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Controller.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Controller.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Meshing.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Meshing.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Meshing.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/MusicService.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MusicService.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/MusicService.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Persistence.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Persistence.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Persistence.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Placement.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Placement.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Placement.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Planes.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Raycast.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Raycast.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Raycast.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/Vignette.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Vignette.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/Vignette.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
+      projectPath: Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/CurrentLayout.dwlt
+      fullPath: /Users/apple/ARrival/Project/Library/CurrentLayout.dwlt
+      projectPath: Library/CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/InspectorExpandedItems.asset
+      fullPath: /Users/apple/ARrival/Project/Library/InspectorExpandedItems.asset
+      projectPath: Library/InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/LastBuild.buildreport
+      fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
+      projectPath: Library/LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
+      projectPath: Library/PlayerDataCache/Data/globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/level0
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
+      projectPath: Library/PlayerDataCache/Data/level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/ProjectSettings.asset
+      fullPath: /Users/apple/ARrival/Project/Library/ProjectSettings.asset
+      projectPath: Library/ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/assetDatabase3
+      fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/expandedItems
+      fullPath: /Users/apple/ARrival/Project/Library/expandedItems
+      projectPath: Library/expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/repoinfo.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/il2cpp_stats/statistics.txt
+      fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
+      projectPath: Library/il2cpp_stats/statistics.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
+      projectPath: Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
+      projectPath: Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
+      projectPath: Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
+      projectPath: Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+      projectPath: Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+      projectPath: Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+      projectPath: Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+      projectPath: Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+      projectPath: Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+      projectPath: Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+      projectPath: Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/39/39518081c3690494380a8dece4faef00.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/39/39518081c3690494380a8dece4faef00.info
+      projectPath: Library/metadata/39/39518081c3690494380a8dece4faef00.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+      projectPath: Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+      projectPath: Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+      projectPath: Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+      projectPath: Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+      projectPath: Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+      projectPath: Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+      projectPath: Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+      projectPath: Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+      projectPath: Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+      projectPath: Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+      projectPath: Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+      projectPath: Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+      projectPath: Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+      projectPath: Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+      projectPath: Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+      projectPath: Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+      projectPath: Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+      projectPath: Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+      projectPath: Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+      projectPath: Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+      projectPath: Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+      projectPath: Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+      projectPath: Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+      projectPath: Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+      projectPath: Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+      projectPath: Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+      projectPath: Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+      projectPath: Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+      projectPath: Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+      projectPath: Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+      projectPath: Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+      projectPath: Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+      projectPath: Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+      projectPath: Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+      projectPath: Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+      projectPath: Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+      projectPath: Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+      projectPath: Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+      projectPath: Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+      projectPath: Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+      projectPath: Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+      projectPath: Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+      projectPath: Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+      projectPath: Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+      projectPath: Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
+      projectPath: Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/ProjectSettings/ProjectSettings.asset
+      fullPath: /Users/apple/ARrival/Project/ProjectSettings/ProjectSettings.asset
+      projectPath: ProjectSettings/ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/ProjectSettings/TagManager.asset
+      fullPath: /Users/apple/ARrival/Project/ProjectSettings/TagManager.asset
+      projectPath: ProjectSettings/TagManager.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: /Users/apple/ARrival/Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: bab4e62a00d768b510b2ce8cc827d15f92da21cd
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: more animations blargh!
+    description: 'more animations blargh!
+
+
+      blargh!'
+    timeString: 2019-01-19T19:58:35.000-04:00
+    commitTimeString: 2019-01-19T19:58:35.000-04:00
+    changes:
+    - path: Animations/Final_Animations/OK_Anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/OK_Anim.fbx
+      projectPath: ../Animations/Final_Animations/OK_Anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Final_Animations/Pinch.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/Pinch.fbx
+      projectPath: ../Animations/Final_Animations/Pinch.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Final_Animations/VeryHappy.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/VeryHappy.fbx
+      projectPath: ../Animations/Final_Animations/VeryHappy.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Final_Animations/happy2_anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/happy2_anim.fbx
+      projectPath: ../Animations/Final_Animations/happy2_anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Animations/Final_Animations/thumbs_Up_Anim.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/thumbs_Up_Anim.fbx
+      projectPath: ../Animations/Final_Animations/thumbs_Up_Anim.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 29a4d2ff41b665a80df22ffa5cb58947148590af
+    mergeA: 
+    mergeB: 
+    authorName: Unknown
+    authorEmail: dre.vivero@gmail.com
+    commitEmail: dre.vivero@gmail.com
+    commitName: Unknown
+    summary: modified flip attempt
+    description: 'modified flip attempt
+
+'
+    timeString: 2019-01-19T18:54:07.000-05:00
+    commitTimeString: 2019-01-19T18:54:07.000-05:00
+    changes:
+    - path: Animations/Alien_flip_attempt.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_flip_attempt.mb
+      projectPath: ../Animations/Alien_flip_attempt.mb
+      originalPath: 
+      status: 3
+      staged: 0
+  - commitID: 492722ccb76568dbd12374dc099a4c08a7615518
+    mergeA: 6c7ac676d1ced5d4545666d8fc30a91ef3811791
+    mergeB: 172fd7cb15581281e40462e451cacc22af4785a4
+    authorName: Unknown
+    authorEmail: dre.vivero@gmail.com
+    commitEmail: dre.vivero@gmail.com
+    commitName: Unknown
+    summary: Merge remote-tracking branch 'origin/master'
+    description: 'Merge remote-tracking branch ''origin/master''
+
+'
+    timeString: 2019-01-19T18:52:24.000-05:00
+    commitTimeString: 2019-01-19T18:52:24.000-05:00
+    changes: []
+  - commitID: 6c7ac676d1ced5d4545666d8fc30a91ef3811791
+    mergeA: 56fec590ebe0a9586b9a237767907b467351a5a7
+    mergeB: bb11fcac2070a4813e60cab9c4feee6823c9ce83
+    authorName: Unknown
+    authorEmail: dre.vivero@gmail.com
+    commitEmail: dre.vivero@gmail.com
+    commitName: Unknown
+    summary: Merge remote-tracking branch 'origin/master'
+    description: 'Merge remote-tracking branch ''origin/master''
+
+'
+    timeString: 2019-01-19T18:44:07.000-05:00
+    commitTimeString: 2019-01-19T18:44:07.000-05:00
+    changes: []
+  - commitID: 56fec590ebe0a9586b9a237767907b467351a5a7
+    mergeA: 
+    mergeB: 
+    authorName: Unknown
+    authorEmail: dre.vivero@gmail.com
+    commitEmail: dre.vivero@gmail.com
+    commitName: Unknown
+    summary: Alien flip attempt animation
+    description: 'Alien flip attempt animation
+
+'
+    timeString: 2019-01-19T18:43:55.000-05:00
+    commitTimeString: 2019-01-19T18:43:55.000-05:00
+    changes:
+    - path: Animations/Alien_flip_attempt.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_flip_attempt.mb
+      projectPath: ../Animations/Alien_flip_attempt.mb
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 172fd7cb15581281e40462e451cacc22af4785a4
+    mergeA: 
+    mergeB: 
+    authorName: Ali
+    authorEmail: alikfitz@gmail.com
+    commitEmail: alikfitz@gmail.com
+    commitName: Ali
+    summary: Wayfair Models Added
+    description: 'Wayfair Models Added
+
+
+      Folder containing Wayfair models added'
+    timeString: 2019-01-19T18:35:58.000-05:00
+    commitTimeString: 2019-01-19T18:35:58.000-05:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/apple/ARrival/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: SketchUp Wayfair Models/ALCT3833.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ALCT3833.skp
+      projectPath: ../SketchUp Wayfair Models/ALCT3833.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ASTG1732.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ASTG1732.skp
+      projectPath: ../SketchUp Wayfair Models/ASTG1732.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ATGR1038.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ATGR1038.skp
+      projectPath: ../SketchUp Wayfair Models/ATGR1038.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL3133.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL3133.skp
+      projectPath: ../SketchUp Wayfair Models/BL3133.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL3409.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL3409.skp
+      projectPath: ../SketchUp Wayfair Models/BL3409.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL4854.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL4854.skp
+      projectPath: ../SketchUp Wayfair Models/BL4854.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL4856.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL4856.skp
+      projectPath: ../SketchUp Wayfair Models/BL4856.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL6427 (1).skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL6427 (1).skp
+      projectPath: ../SketchUp Wayfair Models/BL6427 (1).skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL6427.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL6427.skp
+      projectPath: ../SketchUp Wayfair Models/BL6427.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BL9415.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BL9415.skp
+      projectPath: ../SketchUp Wayfair Models/BL9415.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BNGL2653.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BNGL2653.skp
+      projectPath: ../SketchUp Wayfair Models/BNGL2653.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/BRSD1546.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/BRSD1546.skp
+      projectPath: ../SketchUp Wayfair Models/BRSD1546.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/CHLH2283.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/CHLH2283.skp
+      projectPath: ../SketchUp Wayfair Models/CHLH2283.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/CHLH5247.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/CHLH5247.skp
+      projectPath: ../SketchUp Wayfair Models/CHLH5247.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/CSTM1980.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/CSTM1980.skp
+      projectPath: ../SketchUp Wayfair Models/CSTM1980.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DBHC1269.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DBHC1269.skp
+      projectPath: ../SketchUp Wayfair Models/DBHC1269.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DBHC3223.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DBHC3223.skp
+      projectPath: ../SketchUp Wayfair Models/DBHC3223.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DBHC4056.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DBHC4056.skp
+      projectPath: ../SketchUp Wayfair Models/DBHC4056.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DBHC4195.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DBHC4195.skp
+      projectPath: ../SketchUp Wayfair Models/DBHC4195.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DRBC4038.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DRBC4038.skp
+      projectPath: ../SketchUp Wayfair Models/DRBC4038.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/DRBC4148.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/DRBC4148.skp
+      projectPath: ../SketchUp Wayfair Models/DRBC4148.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/HOHN4177.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/HOHN4177.skp
+      projectPath: ../SketchUp Wayfair Models/HOHN4177.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/HOHN4506.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/HOHN4506.skp
+      projectPath: ../SketchUp Wayfair Models/HOHN4506.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/HOHN7642.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/HOHN7642.skp
+      projectPath: ../SketchUp Wayfair Models/HOHN7642.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/HOHN8286.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/HOHN8286.skp
+      projectPath: ../SketchUp Wayfair Models/HOHN8286.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LARK7135.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LARK7135.skp
+      projectPath: ../SketchUp Wayfair Models/LARK7135.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LATR2950.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LATR2950.skp
+      projectPath: ../SketchUp Wayfair Models/LATR2950.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LGLY2727.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LGLY2727.skp
+      projectPath: ../SketchUp Wayfair Models/LGLY2727.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON2523.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON2523.skp
+      projectPath: ../SketchUp Wayfair Models/LOON2523.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON4004.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON4004.skp
+      projectPath: ../SketchUp Wayfair Models/LOON4004.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON4778.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON4778.skp
+      projectPath: ../SketchUp Wayfair Models/LOON4778.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON4938.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON4938.skp
+      projectPath: ../SketchUp Wayfair Models/LOON4938.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON5178.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON5178.skp
+      projectPath: ../SketchUp Wayfair Models/LOON5178.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON6056.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON6056.skp
+      projectPath: ../SketchUp Wayfair Models/LOON6056.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LOON6060.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LOON6060.skp
+      projectPath: ../SketchUp Wayfair Models/LOON6060.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LTRN2661.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LTRN2661.skp
+      projectPath: ../SketchUp Wayfair Models/LTRN2661.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/LTRN2668.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/LTRN2668.skp
+      projectPath: ../SketchUp Wayfair Models/LTRN2668.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MCRR1917.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MCRR1917.skp
+      projectPath: ../SketchUp Wayfair Models/MCRR1917.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MCRR4442.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MCRR4442.skp
+      projectPath: ../SketchUp Wayfair Models/MCRR4442.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MCRR5672.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MCRR5672.skp
+      projectPath: ../SketchUp Wayfair Models/MCRR5672.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MCRR6005.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MCRR6005.skp
+      projectPath: ../SketchUp Wayfair Models/MCRR6005.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MCRR6815.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MCRR6815.skp
+      projectPath: ../SketchUp Wayfair Models/MCRR6815.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MRCR1888.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MRCR1888.skp
+      projectPath: ../SketchUp Wayfair Models/MRCR1888.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MRCR2104.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MRCR2104.skp
+      projectPath: ../SketchUp Wayfair Models/MRCR2104.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/MRCR2122.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/MRCR2122.skp
+      projectPath: ../SketchUp Wayfair Models/MRCR2122.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/OAWY2796.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/OAWY2796.skp
+      projectPath: ../SketchUp Wayfair Models/OAWY2796.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/OAWY2903.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/OAWY2903.skp
+      projectPath: ../SketchUp Wayfair Models/OAWY2903.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/OAWY3703.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/OAWY3703.skp
+      projectPath: ../SketchUp Wayfair Models/OAWY3703.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/OAWY3856.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/OAWY3856.skp
+      projectPath: ../SketchUp Wayfair Models/OAWY3856.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/RDBS2519.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/RDBS2519.skp
+      projectPath: ../SketchUp Wayfair Models/RDBS2519.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/RDBS2581.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/RDBS2581.skp
+      projectPath: ../SketchUp Wayfair Models/RDBS2581.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/RDBS3566.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/RDBS3566.skp
+      projectPath: ../SketchUp Wayfair Models/RDBS3566.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/RSWH1906.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/RSWH1906.skp
+      projectPath: ../SketchUp Wayfair Models/RSWH1906.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/SEHO6018.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/SEHO6018.skp
+      projectPath: ../SketchUp Wayfair Models/SEHO6018.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/SEHO6954.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/SEHO6954.skp
+      projectPath: ../SketchUp Wayfair Models/SEHO6954.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN1847.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN1847.skp
+      projectPath: ../SketchUp Wayfair Models/TADN1847.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN2447.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN2447.skp
+      projectPath: ../SketchUp Wayfair Models/TADN2447.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN4289.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN4289.skp
+      projectPath: ../SketchUp Wayfair Models/TADN4289.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN5439.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN5439.skp
+      projectPath: ../SketchUp Wayfair Models/TADN5439.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN5455.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN5455.skp
+      projectPath: ../SketchUp Wayfair Models/TADN5455.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/TADN5456.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/TADN5456.skp
+      projectPath: ../SketchUp Wayfair Models/TADN5456.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE1904.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE1904.skp
+      projectPath: ../SketchUp Wayfair Models/THRE1904.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE3383.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE3383.skp
+      projectPath: ../SketchUp Wayfair Models/THRE3383.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE3470.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE3470.skp
+      projectPath: ../SketchUp Wayfair Models/THRE3470.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE3503.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE3503.skp
+      projectPath: ../SketchUp Wayfair Models/THRE3503.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE4029.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE4029.skp
+      projectPath: ../SketchUp Wayfair Models/THRE4029.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE4258.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE4258.skp
+      projectPath: ../SketchUp Wayfair Models/THRE4258.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE4349.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE4349.skp
+      projectPath: ../SketchUp Wayfair Models/THRE4349.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE4352.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE4352.skp
+      projectPath: ../SketchUp Wayfair Models/THRE4352.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/THRE8838.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/THRE8838.skp
+      projectPath: ../SketchUp Wayfair Models/THRE8838.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/VKGL1447.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/VKGL1447.skp
+      projectPath: ../SketchUp Wayfair Models/VKGL1447.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/VKGL3731.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/VKGL3731.skp
+      projectPath: ../SketchUp Wayfair Models/VKGL3731.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/VKGL3944.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/VKGL3944.skp
+      projectPath: ../SketchUp Wayfair Models/VKGL3944.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL1611.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL1611.skp
+      projectPath: ../SketchUp Wayfair Models/WADL1611.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL2874.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL2874.skp
+      projectPath: ../SketchUp Wayfair Models/WADL2874.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL3235.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL3235.skp
+      projectPath: ../SketchUp Wayfair Models/WADL3235.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL3768.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL3768.skp
+      projectPath: ../SketchUp Wayfair Models/WADL3768.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL3891.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL3891.skp
+      projectPath: ../SketchUp Wayfair Models/WADL3891.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL4082.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL4082.skp
+      projectPath: ../SketchUp Wayfair Models/WADL4082.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL5099.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL5099.skp
+      projectPath: ../SketchUp Wayfair Models/WADL5099.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL5534.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL5534.skp
+      projectPath: ../SketchUp Wayfair Models/WADL5534.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL8470.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL8470.skp
+      projectPath: ../SketchUp Wayfair Models/WADL8470.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WADL8503.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WADL8503.skp
+      projectPath: ../SketchUp Wayfair Models/WADL8503.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WDMG1768.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WDMG1768.skp
+      projectPath: ../SketchUp Wayfair Models/WDMG1768.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WDMG3104.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WDMG3104.skp
+      projectPath: ../SketchUp Wayfair Models/WDMG3104.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/WDMG3164.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/WDMG3164.skp
+      projectPath: ../SketchUp Wayfair Models/WDMG3164.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC1465.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC1465.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC1465.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC1531.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC1531.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC1531.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC1783.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC1783.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC1783.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC1864.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC1864.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC1864.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC2280.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC2280.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC2280.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC2526.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC2526.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC2526.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC2536.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC2536.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC2536.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC2577.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC2577.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC2577.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC2881.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC2881.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC2881.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC3117.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC3117.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC3117.skp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: SketchUp Wayfair Models/ZIPC3496.skp
+      fullPath: /Users/apple/ARrival/SketchUp Wayfair Models/ZIPC3496.skp
+      projectPath: ../SketchUp Wayfair Models/ZIPC3496.skp
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 667232f4ad6bb9babab3b51ced4f631f5ab71725
+    mergeA: f021c32620bd84cd135e0b8ea29cf8b4b8d6bcd8
+    mergeB: bb11fcac2070a4813e60cab9c4feee6823c9ce83
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-19T18:39:55.000-04:00
+    commitTimeString: 2019-01-19T18:39:55.000-04:00
+    changes: []
+  - commitID: f021c32620bd84cd135e0b8ea29cf8b4b8d6bcd8
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Create RandomAction_1.fbx
+    description: 'Create RandomAction_1.fbx
+
+
+      randomresponse'
+    timeString: 2019-01-19T18:38:20.000-04:00
+    commitTimeString: 2019-01-19T18:38:20.000-04:00
+    changes:
+    - path: Animations/Final_Animations/RandomAction_1.fbx
+      fullPath: /Users/apple/ARrival/Animations/Final_Animations/RandomAction_1.fbx
+      projectPath: ../Animations/Final_Animations/RandomAction_1.fbx
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: bb11fcac2070a4813e60cab9c4feee6823c9ce83
     mergeA: 
     mergeB: 
