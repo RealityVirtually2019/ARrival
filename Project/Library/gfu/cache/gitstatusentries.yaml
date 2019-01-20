@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-01-19T17:12:26.923-05:00
-  initializedAtString: 2019-01-19T17:10:47.632-05:00
+  lastUpdatedAtString: 2019-01-19T19:02:09.193-05:00
+  initializedAtString: 2019-01-19T17:57:06.896-05:00
   entries:
   - path: .DS_Store
     fullPath: /Users/apple/ARrival/.DS_Store
@@ -21,11 +21,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Animations/.DS_Store
-    fullPath: /Users/apple/ARrival/Animations/.DS_Store
-    projectPath: ../Animations/.DS_Store
+  - path: Project/.DS_Store
+    fullPath: /Users/apple/ARrival/Project/.DS_Store
+    projectPath: .DS_Store
     originalPath: 
-    status: 1
+    status: 3
     staged: 0
   - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
     fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
@@ -57,141 +57,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assembly-CSharp.csproj
-    fullPath: /Users/apple/ARrival/Project/Assembly-CSharp.csproj
-    projectPath: Assembly-CSharp.csproj
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Project/Assets/Arrivals/ART/Materials/MSGBall.mat
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Materials/MSGBall.mat
     projectPath: Assets/Arrivals/ART/Materials/MSGBall.mat
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Materials/MSGBall.mat.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Materials/MSGBall.mat.meta
-    projectPath: Assets/Arrivals/ART/Materials/MSGBall.mat.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
-    projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
-    originalPath: 
     status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Animations/FIX_Point_And_Okay_Anim.fbx.meta
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Back_Of_Hand_Anim.fbx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Idle_Anim.fbx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Pinch_And_Back_Of_Hand_Anim.fbx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Point_And_OK_Anim.fbx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Point_Anim.fbx.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx.meta
-    projectPath: Assets/Arrivals/ART/Modles/Final_Animations/ThumbsUP_And_OK_Anim.fbx.meta
-    originalPath: 
-    status: 1
     staged: 0
   - path: Project/Assets/Arrivals/Prefab/Orbitmessage.prefab
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Prefab/Orbitmessage.prefab
     projectPath: Assets/Arrivals/Prefab/Orbitmessage.prefab
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Prefab/Orbitmessage.prefab.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Prefab/Orbitmessage.prefab.meta
-    projectPath: Assets/Arrivals/Prefab/Orbitmessage.prefab.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Scripts/Alien.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Alien.cs
-    projectPath: Assets/Arrivals/Scripts/Alien.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/Scripts/KeyGestureControl.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/KeyGestureControl.cs
-    projectPath: Assets/Arrivals/Scripts/KeyGestureControl.cs
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/Scripts/Msgorbit.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Msgorbit.cs
-    projectPath: Assets/Arrivals/Scripts/Msgorbit.cs
     originalPath: 
     status: 3
     staged: 0
@@ -199,37 +73,7 @@ MonoBehaviour:
     fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Player.cs
     projectPath: Assets/Arrivals/Scripts/Player.cs
     originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Scripts/Player.cs.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Player.cs.meta
-    projectPath: Assets/Arrivals/Scripts/Player.cs.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
-    projectPath: Assets/Arrivals/Scripts/TowHandKeyGestureTable.cs
-    originalPath: 
     status: 3
-    staged: 0
-  - path: Project/Assets/Arrivals/Sound.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound.meta
-    projectPath: Assets/Arrivals/Sound.meta
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Sound/Intro_temp.wav
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/Intro_temp.wav
-    projectPath: Assets/Arrivals/Sound/Intro_temp.wav
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Project/Assets/Arrivals/Sound/Intro_temp.wav.meta
-    fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Sound/Intro_temp.wav.meta
-    projectPath: Assets/Arrivals/Sound/Intro_temp.wav.meta
-    originalPath: 
-    status: 1
     staged: 0
   - path: Project/Assets/ARrivalsMain.unity
     fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
@@ -237,15 +81,111 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
-    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
-    projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+  - path: Project/Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/AudioCapture.unity
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
-    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
-    projectPath: Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Controller.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Controller.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Controller.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/HandTracking.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/ImageCapture.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/ImageTracking.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/LightTracking.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/MediaPlayer.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Meshing.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Meshing.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Meshing.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/MobileApp.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/MusicService.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/MusicService.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/MusicService.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Persistence.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Persistence.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Persistence.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Placement.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Placement.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Placement.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Planes.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Planes.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Raycast.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Raycast.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Raycast.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/VideoCapture.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/Vignette.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/Vignette.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/Vignette.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/WorldScale_Centimeters.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
+    fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
+    projectPath: Assets/MagicLeap/Examples/Scenes/WorldScale_Meters.unity
     originalPath: 
     status: 3
     staged: 0
@@ -321,33 +261,351 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/LastSceneManagerSetup.txt
-    fullPath: /Users/apple/ARrival/Project/Library/LastSceneManagerSetup.txt
-    projectPath: Library/LastSceneManagerSetup.txt
+  - path: Project/Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
+    projectPath: Library/metadata/0b/0b2ac6429a23d4f329a177997e8ed6ff.info
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
-    fullPath: /Users/apple/ARrival/Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
-    projectPath: Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+  - path: Project/Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
+    projectPath: Library/metadata/0b/0b46e96b48f596a4abe7013197e2fe8f.info
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/metadata/9e/9e7995eed6e574dba9e7106a0233ee10
-    fullPath: /Users/apple/ARrival/Project/Library/metadata/9e/9e7995eed6e574dba9e7106a0233ee10
-    projectPath: Library/metadata/9e/9e7995eed6e574dba9e7106a0233ee10
+  - path: Project/Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
+    projectPath: Library/metadata/0b/0b98aa06d95ff43ad9a0b9cf9003c331.info
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
-    fullPath: /Users/apple/ARrival/Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
-    projectPath: Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+  - path: Project/Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
+    projectPath: Library/metadata/13/13eafd56208ff3b43a7b9df3fb279794.info
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
-    fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
-    projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+  - path: Project/Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+    projectPath: Library/metadata/15/1532a9704bc104abe8a25b242435e517.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+    projectPath: Library/metadata/29/29528ee004f08ee43824470a516967c6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+    projectPath: Library/metadata/29/297586aacb3c0c84cb94aff0d06849e0.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+    projectPath: Library/metadata/2b/2b539d79887b4e243b8276392bc90fc2.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+    projectPath: Library/metadata/32/32305cf948ccfa542879ef9ff007f5e1.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+    projectPath: Library/metadata/37/3736cce207b7fb54387f797a4d3343b4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+    projectPath: Library/metadata/38/38242b1b573fc5149af839cd34497185.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/39/39518081c3690494380a8dece4faef00.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/39/39518081c3690494380a8dece4faef00.info
+    projectPath: Library/metadata/39/39518081c3690494380a8dece4faef00.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+    projectPath: Library/metadata/3a/3a5f27e56d4df9f47bb016220e957c66.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+    projectPath: Library/metadata/49/4931dee9c1bb8324ca1f58a6649eb10c.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+    projectPath: Library/metadata/56/56449e9beb1d43c4fae09eef7df725ab.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+    projectPath: Library/metadata/57/57ae8c0fe65c54b34821889ca1aa6eae.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+    projectPath: Library/metadata/58/5808511577e4da7488e7fc2fcfb7d238.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+    projectPath: Library/metadata/59/59c6be029dd486745a09f84d6543dc7c.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+    projectPath: Library/metadata/5b/5bbe92610267a594e8afa9799028f0fb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+    projectPath: Library/metadata/65/656d8d0d3bf818748b88c6927709e7fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+    projectPath: Library/metadata/68/6884f69ad0adbb441905ff499f5d1ece.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+    projectPath: Library/metadata/6a/6a19fdeea2eb24612a1957cb448364fc.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+    projectPath: Library/metadata/73/73bf8012fc57b72478571e19ed503ed4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+    projectPath: Library/metadata/78/787df8bd9996bf04c9fbbaa5776694ee.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+    projectPath: Library/metadata/7d/7db5f263d5fb4944aae1ca2478e40124.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+    projectPath: Library/metadata/7e/7e6116c9523bb4e49a5fd6566c5df19c.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+    projectPath: Library/metadata/84/842d9c44597be40ab8dffb4e5c9341d2.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+    projectPath: Library/metadata/86/869fbdf6b6425694eb465928f60e4646.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+    projectPath: Library/metadata/8e/8e0c6f76b0c52a947a2f913414c9fc82.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+    projectPath: Library/metadata/90/9092cc786bddea74395a6a7edf76b999.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+    projectPath: Library/metadata/90/90a3f6547f99cc8448dc69a5f8e69b21.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+    projectPath: Library/metadata/97/978e6040558382e47ba9ecd2b9d2faeb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+    projectPath: Library/metadata/97/97b29849d7c874180847ac1ba455d66e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+    projectPath: Library/metadata/9a/9a683a4e26f754f6c97b25a04cce61ce.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+    projectPath: Library/metadata/9e/9ea5b38899d28c24ea33cf9f3476f8e0.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+    projectPath: Library/metadata/a8/a88eadc2615b9db43b1cefb82e212c43.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+    projectPath: Library/metadata/a9/a9dc744907b444049b512edd7975cd76.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+    projectPath: Library/metadata/ad/ad49fc2e73d07ac459a82aec9bbf0fba.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+    projectPath: Library/metadata/af/afe0e1bfde80bd746bc9fbffbea93cdb.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+    projectPath: Library/metadata/b2/b253e69607eec4b7491f984ee2601353.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+    projectPath: Library/metadata/b6/b605e4607075f3b4c8addeb0540d2910.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+    projectPath: Library/metadata/b8/b8c53b54524957f48a35e6b0795487bc.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+    projectPath: Library/metadata/bb/bb4de4c68adc8704e91a3c1fafaf8daf.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+    projectPath: Library/metadata/be/bea1ce9cb65b24dccbb6bbe600f25e98.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+    projectPath: Library/metadata/c0/c0e156747f280fd4896d8483a401705e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+    projectPath: Library/metadata/c2/c2afa10b548b38740bea16abb91ac4b6.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+    projectPath: Library/metadata/c4/c48e77c57945ce3439b77eb6bc02c3c3.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+    projectPath: Library/metadata/d2/d207ea31ff412af47a24a99033de0587.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+    projectPath: Library/metadata/d8/d89a73bc826d4d248b1cde764731779a.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+    projectPath: Library/metadata/dc/dce284ccd24f4ae4ab1bd9256da4a4bd.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+    projectPath: Library/metadata/e3/e37bbdaf5fb1fee4aac5a619d6e53a90.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+    projectPath: Library/metadata/e3/e3f01557039e9d14cb64ed205dc15749.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+    projectPath: Library/metadata/e6/e684ee23075278443835c2eb7da16b5e.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+    projectPath: Library/metadata/e7/e7a7c9478d52894418873be6d4bfd5fe.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+    projectPath: Library/metadata/e8/e89a79f04d5c6c948a4788b9154bab9b.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+    projectPath: Library/metadata/ec/ec11c130fc700ab4b818abf516b29fc4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+    projectPath: Library/metadata/ee/eefd1b925560048469d7407643d99a00.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
+    fullPath: /Users/apple/ARrival/Project/Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
+    projectPath: Library/metadata/f1/f1e854ec1a6715e4086f0efb1215f9f0.info
     originalPath: 
     status: 3
     staged: 0
@@ -360,12 +618,6 @@ MonoBehaviour:
   - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
     fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
     projectPath: Library/PlayerDataCache/Data/globalgamemanagers
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
-    projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
     originalPath: 
     status: 3
     staged: 0
@@ -384,18 +636,6 @@ MonoBehaviour:
   - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
     fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
     projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    projectPath: Library/PlayerDataCache/Data/sharedassets0.assets.resS
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
-    fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
-    projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
     originalPath: 
     status: 3
     staged: 0
@@ -444,6 +684,54 @@ MonoBehaviour:
   - path: Project/Library/ScriptAssemblies/BuiltinAssemblies.stamp
     fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/BuiltinAssemblies.stamp
     projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+    projectPath: Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.MagicLeap.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.dll.mdb
+    projectPath: Library/ScriptAssemblies/Unity.XR.MagicLeap.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll
+    projectPath: Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll.mdb
+    projectPath: Library/ScriptAssemblies/Unity.XR.MagicLeap.Editor.dll.mdb
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+    projectPath: Library/ScriptAssemblies/UnityEditor.StandardEvents.dll
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
+    fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
+    projectPath: Library/ScriptAssemblies/UnityEditor.StandardEvents.dll.mdb
     originalPath: 
     status: 5
     staged: 0
@@ -501,15 +789,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Project/ProjectSettings/EditorBuildSettings.asset
-    fullPath: /Users/apple/ARrival/Project/ProjectSettings/EditorBuildSettings.asset
-    projectPath: ProjectSettings/EditorBuildSettings.asset
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Project/ProjectSettings/ProjectSettings.asset
     fullPath: /Users/apple/ARrival/Project/ProjectSettings/ProjectSettings.asset
     projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Project/ProjectSettings/TagManager.asset
+    fullPath: /Users/apple/ARrival/Project/ProjectSettings/TagManager.asset
+    projectPath: ProjectSettings/TagManager.asset
     originalPath: 
     status: 3
     staged: 0

@@ -2,23 +2,23 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "a9cd2d0da4c79c13c3705f10f6a0fe4975b780ca",
+   "hash": "6c5046e0d6b5e5848bce35a25a93972deee4b667",
    "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
    "size": 5036,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
   },
   {
    "compression": 8,
-   "hash": "fd9f75b64c50c5b21dc4b21d50cbe201dc73d6f0",
+   "hash": "01159388f13dcedea1cb9cb7055e8a3da706ec75",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 2997280,
+   "size": 2998236,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "6f0c344663a090d373bcdbb5ccdd6ca5f49ab05d",
+   "hash": "cd72b8cabed97651ebe5cda3eb50a54b9fef4a19",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 36734912,
+   "size": 36744456,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -29,9 +29,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "5963c2f1c223432e621624f2c8f626fee72185bd",
+   "xfrm_hash": "a964fb88e5fbf54f24c775cbe8c83a1c52e8aff0",
    "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729",
-   "xfrm_size": 36735670
+   "xfrm_size": 36745214
   },
   {
    "compression": 8,
@@ -167,9 +167,9 @@
   },
   {
    "compression": 8,
-   "hash": "90aa5089f048492c27fcda513a728c6d53599d28",
+   "hash": "1add50fb85680e671c48f72a4fe1840be28931b9",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 35544,
+   "size": 35560,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
@@ -181,9 +181,9 @@
   },
   {
    "compression": 8,
-   "hash": "43058cc3826d8829c6d8327fcff5315d92df2819",
+   "hash": "8e319214bd8868f19020b291a971ccb26dbfd2ef",
    "pkgpath": "Data/level0",
-   "size": 116268,
+   "size": 116332,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level0"
   },
   {
@@ -195,7 +195,7 @@
   },
   {
    "compression": 8,
-   "hash": "96a5b772ac2ea72277fef48c7c5c9500192a963c",
+   "hash": "b3b0dbf35bbed600f27dcb3e1ec8fb9381e97c85",
    "pkgpath": "Data/level1",
    "size": 11172,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level1"
@@ -209,7 +209,7 @@
   },
   {
    "compression": 8,
-   "hash": "e45fc7a94f9426b930159301e2a5a8fb43f20261",
+   "hash": "0edd7a42bab34c9ee7dd731f0e20c61a71a12d6c",
    "pkgpath": "Data/level2",
    "size": 24004,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level2"
@@ -223,9 +223,9 @@
   },
   {
    "compression": 8,
-   "hash": "61c0958ac8b7e1fbe611b63d4d58a30cc65b799d",
+   "hash": "2b8949699e3b214dc7f6ec5475d21482b6f85e71",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 4017908,
+   "size": 4067364,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -244,7 +244,7 @@
   },
   {
    "compression": 8,
-   "hash": "e485f18f155cea61c523aeab6a340303467250ae",
+   "hash": "47efc5b80904b3f92549ac0042fdda5ff49b0bd8",
    "pkgpath": "Data/sharedassets1.assets",
    "size": 11604,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets1.assets"
@@ -258,7 +258,7 @@
   },
   {
    "compression": 8,
-   "hash": "e8aa2c2f2ef56e4e4b99ced053ba37ea3b947f25",
+   "hash": "0d61acba93dc1094b6bea205f87bebe156a613cd",
    "pkgpath": "Data/sharedassets2.assets",
    "size": 5177076,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets2.assets"
@@ -284,9 +284,9 @@
   },
   {
    "compression": 8,
-   "hash": "905bc06bc1699d25c657ded7a695f7ce444d82fe",
+   "hash": "1725693092333c76813568c990751ab76781f6b3",
    "pkgpath": "manifest.xml",
-   "size": 968,
+   "size": 767,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/manifest.xml",
    "xfrm_flags": {
     "manifest": {
@@ -294,9 +294,9 @@
      "developer_id": "6f1886c5-eecd-4e01-a8ce-4dbf18f85844"
     }
    },
-   "xfrm_hash": "6742f0b7f725f61a0e4e6f5203c585e6df1a2cf5",
+   "xfrm_hash": "00e744bd1367ffea177e46a9fc5d69dc6b281f88",
    "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/manifest.xml-dd0051fc8f2fb49e",
-   "xfrm_size": 981
+   "xfrm_size": 780
   },
   {
    "compression": 8,

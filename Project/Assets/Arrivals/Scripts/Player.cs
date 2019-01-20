@@ -24,8 +24,21 @@ public class Player : MonoBehaviour {
             GameObject o = Instantiate(Orbit, transform.position, Quaternion.identity) as GameObject;
             Msgorbit b = o.GetComponent<Msgorbit>();
             b.SendOutmsg(alien.transform);
+            StartCoroutine(reset());
         }
        
+    }
+
+
+
+    IEnumerator reset(){
+        yield return new WaitForSeconds(5f);
+
+
+        isending = false;
+
+
+
     }
 
 

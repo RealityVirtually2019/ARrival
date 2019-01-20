@@ -691,13 +691,9 @@ PlayerSettings:
   luminPrivilege:
   - GesturesConfig
   - GesturesSubscribe
-  - WorldReconstruction
-  - DrmCertificates
-  - NormalNotificationsUsage
   - PwFoundObjRead
   - LocalAreaNetwork
-  - ControllerPose
-  - MusicService
+  - WorldReconstruction
   luminMinimumPlatformAPILevel: 3
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
