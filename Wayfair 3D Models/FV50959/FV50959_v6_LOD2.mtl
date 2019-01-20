@@ -1,0 +1,31 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.11.2017 13:46:23
+
+newmtl spec__1e1e1e_39_FV50959_1of1_wf_31
+	Ns 40.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./FV50959-1of1_diffuse_1024.jpg
+	map_Kd ./FV50959-1of1_diffuse_1024.jpg
+	map_bump ./FV50959_1of1_normals_Normal_Bump.jpg
+
+newmtl shadow_mtl_FV50959
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./FV50959_shadow_plane_v6.png
+	map_Kd ./FV50959_shadow_plane_v6.png
