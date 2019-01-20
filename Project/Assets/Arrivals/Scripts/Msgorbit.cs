@@ -28,6 +28,7 @@ public class Msgorbit : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         audioSource = GetComponent<AudioSource>();
+        audioSource.pitch = (float)Random.Range(-3,3);
 	}
 	
 	// Update is called once per frame
