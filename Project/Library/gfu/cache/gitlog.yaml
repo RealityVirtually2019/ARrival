@@ -12,9 +12,744 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-01-20T02:18:21.135-05:00
+  lastUpdatedAtString: 2019-01-20T12:03:06.057-05:00
   initializedAtString: 2019-01-19T19:07:35.305-05:00
   log:
+  - commitID: 7b6f89ced9574ce4f8dd08bd1096b924b4eae6d7
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Create portal2.fbx
+    description: 'Create portal2.fbx
+
+
+      portal2'
+    timeString: 2019-01-20T11:19:32.000-04:00
+    commitTimeString: 2019-01-20T11:19:32.000-04:00
+    changes:
+    - path: Portal/portal2.fbx
+      fullPath: /Users/apple/ARrival/Portal/portal2.fbx
+      projectPath: ../Portal/portal2.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: c356ee5acb440d57033fc2c62e37eba8e50d9eac
+    mergeA: bd8bbfc0a5d98211e882b07d9ff4bbc3b61df777
+    mergeB: 36fc1ac003ec651667aec5c9d7b4b57357605763
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    description: Merge branch 'master' of https://github.com/RealityVirtually2019/ARrival
+    timeString: 2019-01-20T11:10:31.000-04:00
+    commitTimeString: 2019-01-20T11:10:31.000-04:00
+    changes: []
+  - commitID: bd8bbfc0a5d98211e882b07d9ff4bbc3b61df777
+    mergeA: 
+    mergeB: 
+    authorName: DrHanz
+    authorEmail: 31200823+DrHanz@users.noreply.github.com
+    commitEmail: 31200823+DrHanz@users.noreply.github.com
+    commitName: DrHanz
+    summary: Added portal mesh and alien textures
+    description: 'Added portal mesh and alien textures
+
+
+      what i said up there'
+    timeString: 2019-01-20T11:10:05.000-04:00
+    commitTimeString: 2019-01-20T11:10:05.000-04:00
+    changes:
+    - path: Animations/Alien_sad.mb
+      fullPath: /Users/apple/ARrival/Animations/Alien_sad.mb
+      projectPath: ../Animations/Alien_sad.mb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Portal/Portal.fbx
+      fullPath: /Users/apple/ARrival/Portal/Portal.fbx
+      projectPath: ../Portal/Portal.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/.mayaSwatches/PortalMask.png_hcm.swatch
+      fullPath: /Users/apple/ARrival/Textures/.mayaSwatches/PortalMask.png_hcm.swatch
+      projectPath: ../Textures/.mayaSwatches/PortalMask.png_hcm.swatch
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Abstract_006_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Abstract_006_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Abstract_006_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Abstract_006_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Abstract_006_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Abstract_006_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Abstract_006_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Abstract_006_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Abstract_006_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Abstract_006_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Abstract_006_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Abstract_006_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Abstract_006_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Abstract_006_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Abstract_006_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Metal_002_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Metal_002_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Metal_002_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Metal_002_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Metal_002_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Metal_002_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Metal_002_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Metal_002_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Metal_002_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Metal_002_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Metal_002_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Metal_002_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Metal_002_ROUGH.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Metal_002_ROUGH.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Metal_002_ROUGH.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Muscle_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Muscle_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Muscle_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Muscle_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Muscle_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Muscle_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Muscle_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Muscle_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Muscle_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Muscle_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Muscle_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Muscle_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_Muscle_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_Muscle_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_Muscle_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_flesh_002_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_flesh_002_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_flesh_002_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_flesh_002_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_flesh_002_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_flesh_002_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_flesh_002_NRM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_flesh_002_NRM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_flesh_002_NRM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_flesh_002_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_flesh_002_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_flesh_002_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Alien_flesh_002_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Alien_flesh_002_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Alien_flesh_002_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Bacteria_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Bacteria_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Bacteria_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Bacteria_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Bacteria_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Bacteria_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Bacteria_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Bacteria_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Bacteria_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Bacteria_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Bacteria_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Bacteria_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Bacteria_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Bacteria_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Bacteria_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Brain_Matter_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Brain_Matter_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Brain_Matter_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Brain_Matter_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Brain_Matter_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Brain_Matter_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Brain_Matter_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Brain_Matter_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Brain_Matter_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Brain_Matter_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Brain_Matter_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Brain_Matter_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Brain_Matter_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Brain_Matter_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Brain_Matter_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Crystal_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Crystal_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Crystal_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Crystal_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Crystal_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Crystal_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Crystal_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Crystal_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Crystal_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Crystal_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Crystal_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Crystal_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Crystal_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Crystal_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Crystal_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Lava_001_COLOR.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Lava_001_COLOR.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Lava_001_COLOR.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Lava_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Lava_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Lava_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Lava_001_NRM.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Lava_001_NRM.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Lava_001_NRM.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Lava_001_OCC.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Lava_001_OCC.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Lava_001_OCC.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Lava_001_SPEC.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Lava_001_SPEC.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Lava_001_SPEC.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Moon_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Moon_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Moon_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Moon_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Moon_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Moon_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Moon_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Moon_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Moon_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Moon_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Moon_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Moon_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Moon_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Moon_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Moon_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Organic_matter_001_COLOR.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Organic_matter_001_COLOR.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Organic_matter_001_COLOR.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Organic_matter_001_DISP.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Organic_matter_001_DISP.png
+      projectPath: ../Textures/Awesome_Alien_Textures/Organic_matter_001_DISP.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Organic_matter_001_NORM.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Organic_matter_001_NORM.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Organic_matter_001_NORM.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Organic_matter_001_OCC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Organic_matter_001_OCC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Organic_matter_001_OCC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/Organic_matter_001_SPEC.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/Organic_matter_001_SPEC.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/Organic_matter_001_SPEC.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/circuit2.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/circuit2.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/circuit2.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/circuit4.jpg
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/circuit4.jpg
+      projectPath: ../Textures/Awesome_Alien_Textures/circuit4.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/Awesome_Alien_Textures/circuitalpha.png
+      fullPath: /Users/apple/ARrival/Textures/Awesome_Alien_Textures/circuitalpha.png
+      projectPath: ../Textures/Awesome_Alien_Textures/circuitalpha.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Textures/PortalMask.png
+      fullPath: /Users/apple/ARrival/Textures/PortalMask.png
+      projectPath: ../Textures/PortalMask.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 36fc1ac003ec651667aec5c9d7b4b57357605763
+    mergeA: 
+    mergeB: 
+    authorName: Ali
+    authorEmail: alikfitz@gmail.com
+    commitEmail: alikfitz@gmail.com
+    commitName: Ali
+    summary: PNG Prompt Added
+    description: PNG Prompt Added
+    timeString: 2019-01-20T09:53:16.000-05:00
+    commitTimeString: 2019-01-20T09:53:16.000-05:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/apple/ARrival/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: UI/Press Trigger to OPEN PORTAL.png
+      fullPath: /Users/apple/ARrival/UI/Press Trigger to OPEN PORTAL.png
+      projectPath: ../UI/Press Trigger to OPEN PORTAL.png
+      originalPath: 
+      status: 4
+      staged: 0
+  - commitID: 591ddc37e58f4000790c1794e789d1eeffc3f2d0
+    mergeA: 
+    mergeB: 
+    authorName: suibiweng
+    authorEmail: suibi.weng@gmail.com
+    commitEmail: suibi.weng@gmail.com
+    commitName: suibiweng
+    summary: protal texture and new interaction
+    description: protal texture and new interaction
+    timeString: 2019-01-20T09:36:24.000-05:00
+    commitTimeString: 2019-01-20T09:36:24.000-05:00
+    changes:
+    - path: .DS_Store
+      fullPath: /Users/apple/ARrival/.DS_Store
+      projectPath: ../.DS_Store
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ARivalsApp/ARrival.mpk
+      fullPath: /Users/apple/ARrival/ARivalsApp/ARrival.mpk
+      projectPath: ../ARivalsApp/ARrival.mpk
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      fullPath: /Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      projectPath: .out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/package.mf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/bin/libil2cpp.so
+      fullPath: /Users/apple/ARrival/Project/.out/bin/libil2cpp.so
+      projectPath: .out/bin/libil2cpp.so
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/.out/com.arrival.main.mpk
+      fullPath: /Users/apple/ARrival/Project/.out/com.arrival.main.mpk
+      projectPath: .out/com.arrival.main.mpk
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assembly-CSharp.csproj
+      fullPath: /Users/apple/ARrival/Project/Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/ARrivalsMain.unity
+      fullPath: /Users/apple/ARrival/Project/Assets/ARrivalsMain.unity
+      projectPath: Assets/ARrivalsMain.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/.DS_Store
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/.DS_Store
+      projectPath: Assets/Arrivals/.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/.DS_Store
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/.DS_Store
+      projectPath: Assets/Arrivals/ART/.DS_Store
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      projectPath: Assets/Arrivals/ART/Modles/Animations/Alien.controller
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+        reinforcement/angrywiggles_anim.fbx.meta
+      projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/angrywiggles_anim.fbx.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+        reinforcement/sad.fbx.meta
+      projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/sad.fbx.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/ART/Modles/Final_Animations/Negative
+        reinforcement/yablewit_anim.fbx.meta
+      projectPath: Assets/Arrivals/ART/Modles/Final_Animations/Negative reinforcement/yablewit_anim.fbx.meta
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/Scripts/Alien.cs
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Alien.cs
+      projectPath: Assets/Arrivals/Scripts/Alien.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/Arrivals/Scripts/Msgorbit.cs
+      fullPath: /Users/apple/ARrival/Project/Assets/Arrivals/Scripts/Msgorbit.cs
+      projectPath: Assets/Arrivals/Scripts/Msgorbit.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      projectPath: Assets/MagicLeap/Examples/Materials/CeilingMaterial.mat
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+      projectPath: Assets/MagicLeap/Examples/Scripts/PlanesExample.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+      fullPath: /Users/apple/ARrival/Project/Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+      projectPath: Assets/MagicLeap/Examples/Scripts/ProtalTimeline.playable
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Assets/RandomAnger.cs
+      fullPath: /Users/apple/ARrival/Project/Assets/RandomAnger.cs
+      projectPath: Assets/RandomAnger.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Assets/RandomAnger.cs.meta
+      fullPath: /Users/apple/ARrival/Project/Assets/RandomAnger.cs.meta
+      projectPath: Assets/RandomAnger.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Project/Library/EditorUserBuildSettings.asset
+      fullPath: /Users/apple/ARrival/Project/Library/EditorUserBuildSettings.asset
+      projectPath: Library/EditorUserBuildSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/LastBuild.buildreport
+      fullPath: /Users/apple/ARrival/Project/Library/LastBuild.buildreport
+      projectPath: Library/LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      projectPath: Library/PlayerDataCache/Data/095890d8c9bde1a45b549a17e6e6f961
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      projectPath: Library/PlayerDataCache/Data/Managed/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/globalgamemanagers
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers
+      projectPath: Library/PlayerDataCache/Data/globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/globalgamemanagers.assets
+      projectPath: Library/PlayerDataCache/Data/globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/level0
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/level0
+      projectPath: Library/PlayerDataCache/Data/level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/Data/sharedassets0.assets
+      projectPath: Library/PlayerDataCache/Data/sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+      fullPath: /Users/apple/ARrival/Project/Library/PlayerDataCache/ScriptLayoutHashes.txt
+      projectPath: Library/PlayerDataCache/ScriptLayoutHashes.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      fullPath: /Users/apple/ARrival/Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      projectPath: Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/assetDatabase3
+      fullPath: /Users/apple/ARrival/Project/Library/assetDatabase3
+      projectPath: Library/assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/branches.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlocks.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlocks.yaml
+      projectPath: Library/gfu/cache/gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitlog.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /Users/apple/ARrival/Project/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/il2cpp_stats/statistics.txt
+      fullPath: /Users/apple/ARrival/Project/Library/il2cpp_stats/statistics.txt
+      projectPath: Library/il2cpp_stats/statistics.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+      projectPath: Library/metadata/01/01c2c6c9ca10fc64eadd2d6001cb4bc6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+      projectPath: Library/metadata/c4/c4f624f8d0f3a44c9a37c3ed42f9fccf
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      fullPath: /Users/apple/ARrival/Project/Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      projectPath: Library/metadata/d0/d05a06163b51ba34bb7211433cdcf454.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler0.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler0.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler1.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler1.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler2.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler2.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler3.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler3.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler4.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler4.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler4.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler5.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler5.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler5.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler6.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler6.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler6.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Project/Library/shadercompiler-UnityShaderCompiler7.log
+      fullPath: /Users/apple/ARrival/Project/Library/shadercompiler-UnityShaderCompiler7.log
+      projectPath: Library/shadercompiler-UnityShaderCompiler7.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Textures/portal-png-portal-png-file-1191.png
+      fullPath: /Users/apple/ARrival/Textures/portal-png-portal-png-file-1191.png
+      projectPath: ../Textures/portal-png-portal-png-file-1191.png
+      originalPath: 
+      status: 4
+      staged: 0
   - commitID: a63cf52c956e6517548e4157dee39c5f4bb9d028
     mergeA: 
     mergeB: 

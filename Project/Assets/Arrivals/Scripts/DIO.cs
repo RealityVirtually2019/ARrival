@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class DIO : MonoBehaviour {
-    public int[] CredictScore;
+    public int[] CredictScore=new int [8];
 	// Use this for initialization
 	void Start () {
 		

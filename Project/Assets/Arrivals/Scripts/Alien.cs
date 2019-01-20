@@ -38,26 +38,38 @@ public class Alien : MonoBehaviour {
     }
 
 
+    bool onShotSound;
+
+
     void PlaySound(){
         if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("idle") || AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Walk"))
         {
-            ads.clip = idle;
+
+            onShotSound = false;
+       //     ads.clip = idle;
                    
             // Do stuf !!
         }
 
 
-        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Anger"))
+        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Anger") && !onShotSound)
         {
-            ads.clip = Angry;
+
+
+            onShotSound = true;
+           
+          //  ads.clip = Angry;
             // Do stuf !!
         }
 
 
-        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Happy"))
+        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Happy")&& !onShotSound)
         {
 
-            ads.clip = Happy;
+            onShotSound = true;
+            ads.PlayOneShot(Happy);
+
+           // ads.clip = Happy;
             // Do stuf !!
         }
 
@@ -194,10 +206,18 @@ public class Alien : MonoBehaviour {
         reactScore += score;
 
 
-        if(reactScore>2)
-        AlienAni.SetTrigger("Happy");
-        else 
+        if(reactScore>2){
+            AlienAni.SetTrigger("Happy");
+            ads.PlayOneShot(Happy);
+
+        }
+       
+        else {
             AlienAni.SetTrigger("Anger");
+            ads.PlayOneShot(Angry);
+
+        }
+           
 
 
         reactScore = 0;

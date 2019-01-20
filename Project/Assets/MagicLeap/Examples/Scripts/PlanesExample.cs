@@ -56,7 +56,7 @@ namespace MagicLeap
         public Alien alien;
         public Portal portal;
         public MeshRenderer cursorMesh;
-        public GameObject welcomPage;
+        public GameObject welcomPage,insTruction;
         #region Unity Methods
         /// <summary>
         /// Check editor set variables for null references.
@@ -206,11 +206,8 @@ namespace MagicLeap
 
             if (_controllerConnectionHandler.IsControllerValid(controllerId) && button == MLInputControllerButton.Bumper)
             {
-                alien.changetoOutside();
-                portal.changetoOutside();
-                _planesComponent.enabled = false;
-                cursorMesh.enabled = false;
-                welcomPage.SetActive(false);
+                StartLevel();
+
             }
 
         }
@@ -225,6 +222,7 @@ namespace MagicLeap
             _planesComponent.enabled = false;
             cursorMesh.enabled = false;
             welcomPage.SetActive(false);
+            insTruction.SetActive(false);
 
         }
 
