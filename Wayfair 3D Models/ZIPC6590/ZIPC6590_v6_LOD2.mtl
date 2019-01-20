@@ -1,0 +1,58 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 04.09.2018 01:27:06
+
+newmtl spec__010101_98_RooomyBasicFabric_wf_24_ZIPC6590
+	Ns 99.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0039 0.0039 0.0039
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\spec_#010101_98_RooomyBasicFabric_wf_24_ZIPC6590_Mix_Map__142.png
+	map_Kd D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\spec_#010101_98_RooomyBasicFabric_wf_24_ZIPC6590_Mix_Map__142.png
+
+newmtl spec__010101_98_RooomyStandard_wf_41_ZIPC6590
+	Ns 99.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0039 0.0039 0.0039
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\spec_#010101_98_RooomyStandard_wf_41_ZIPC6590_Bricks_____0.png
+	map_Kd D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\spec_#010101_98_RooomyStandard_wf_41_ZIPC6590_Bricks_____0.png
+
+newmtl spec__1e1e1e_70_RooomyBasicwood_wf_91_ZIPC6590
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.1176 0.1176 0.1176
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Map__1_MultiTile.tga
+	map_Kd Map__1_MultiTile.tga
+
+newmtl shadow_mtl_ZIPC6590
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\ZIPC6590_shadow_plane_v6.png
+	map_Kd D:\3DRender\WorkingModels\ZIPC6590_1536038383\ZIPC6590_v6_LOD2.fbm\ZIPC6590_shadow_plane_v6.png

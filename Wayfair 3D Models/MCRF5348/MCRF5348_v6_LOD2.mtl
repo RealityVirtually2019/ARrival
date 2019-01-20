@@ -1,0 +1,80 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.05.2018 03:10:20
+
+newmtl spec__c8c8c8_75__cv_t_wf_62_MCRF5348
+	Ns 75.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.7843 0.7843 0.7843
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__211205_60_Material_26_wf_61_MCRF5348
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.1294 0.0706 0.0196
+	Ke 0.0000 0.0000 0.0000
+	map_bump ./spec__211205_60_Material_26_wf_61_MCRF5348_Noise_Map__2_Normal_Bump.jpg
+
+newmtl spec__0c0c0c_79_k_nh_wf_4_MCRF5348
+	Ns 80.0000
+	Ni 1.5000
+	d 0.0980
+	Tr 0.9020
+	Tf 0.0980 0.0980 0.0980 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0471 0.0471 0.0471
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__0a0a0a_60_Material_27_wf_70_MCRF5348
+	Ns 60.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0392 0.0392 0.0392
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__0a0a0a_60_Material_27_wf_70_MCRF5348_Color_Correction_Map__5.jpg
+	map_Kd ./spec__0a0a0a_60_Material_27_wf_70_MCRF5348_Color_Correction_Map__5.jpg
+	map_bump ./spec__0a0a0a_60_Material_27_wf_70_MCRF5348_Color_Correction_Map__8_Normal_Bump.jpg
+
+newmtl spec__121212_50_ch_nnh_a_wf_98_MCRF5348
+	Ns 50.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0706 0.0706 0.0706
+	Ke 0.0000 0.0000 0.0000
+
+newmtl shadow_mtl_MCRF5348
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRF5348_shadow_plane_v6.png
+	map_Kd ./MCRF5348_shadow_plane_v6.png
