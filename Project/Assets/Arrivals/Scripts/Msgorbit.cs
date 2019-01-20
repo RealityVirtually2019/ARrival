@@ -13,8 +13,11 @@ public class Msgorbit : MonoBehaviour {
     public void SendOutmsg(Transform t){
 
         target = t;
-        //audioSource = GetComponent<AudioSource>();
 
+
+
+
+        //audioSource = GetComponent<AudioSource>();
         //audioSource.clip = audioClip;
 
 
@@ -24,7 +27,7 @@ public class Msgorbit : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        audioSource = GetComponent<AudioSource>();
 	}
 	
 	// Update is called once per frame

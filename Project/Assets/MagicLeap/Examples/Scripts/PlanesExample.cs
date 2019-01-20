@@ -99,11 +99,18 @@ namespace MagicLeap
             }
 
             MLInput.OnControllerButtonDown += OnButtonDown;
+
+            MLInput.OnTriggerDown += HandleOnTriggerDown;
             MagicLeapDevice.RegisterOnHeadTrackingMapEvent(OnHeadTrackingMapEvent);
 
             _planesComponent = GetComponent<Planes>();
             _camera = Camera.main;
         }
+
+
+
+
+
 
         /// <summary>
         /// Start bounds based on _bounded state.
@@ -129,6 +136,7 @@ namespace MagicLeap
         {
             MagicLeapDevice.UnregisterOnHeadTrackingMapEvent(OnHeadTrackingMapEvent);
             MLInput.OnControllerButtonDown -= OnButtonDown;
+            MLInput.OnTriggerDown -= HandleOnTriggerDown;
         }
         #endregion
 
@@ -169,6 +177,25 @@ namespace MagicLeap
         /// </summary>
         /// <param name="controllerId">The id of the controller.</param>
         /// <param name="button">The button that is being released.</param>
+        /// 
+        /// 
+        /// 
+        /// 
+        /// 
+        /// 
+        /// 
+        /// 
+
+        private void HandleOnTriggerDown(byte controllerId, float value)
+        {
+            if (_controllerConnectionHandler.IsControllerValid(controllerId))
+            {
+                StartLevel();
+            }
+        }
+
+
+
         private void OnButtonDown(byte controllerId, MLInputControllerButton button)
         {
             if (_controllerConnectionHandler.IsControllerValid(controllerId) && button == MLInputControllerButton.HomeTap)
@@ -187,6 +214,20 @@ namespace MagicLeap
             }
 
         }
+
+
+
+
+        public void StartLevel(){
+
+            alien.changetoOutside();
+            portal.changetoOutside();
+            _planesComponent.enabled = false;
+            cursorMesh.enabled = false;
+            welcomPage.SetActive(false);
+
+        }
+
 
         /// <summary>
         /// Handle in charge of clearing all planes if map gets lost.

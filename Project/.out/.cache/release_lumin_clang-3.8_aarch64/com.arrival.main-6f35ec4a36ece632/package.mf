@@ -2,23 +2,23 @@
  "entries": [
   {
    "compression": 8,
-   "hash": "0b2050328d159bd1c083949f0231fb6ab5c1817f",
+   "hash": "76091be8c8eaa5e895d19b94a8fa035c96151765",
    "pkgpath": "Data/095890d8c9bde1a45b549a17e6e6f961",
    "size": 5036,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/095890d8c9bde1a45b549a17e6e6f961"
   },
   {
    "compression": 8,
-   "hash": "e1be7f2c0d99340cd03f873d340a82670af584ab",
+   "hash": "ad93bbb27b4a889fce690fa1ad2a3f20d62980b7",
    "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
-   "size": 2999192,
+   "size": 3002528,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
   },
   {
    "compression": 8,
-   "hash": "6a7a0d626b28c7a88f0fbf96329324905c32e71d",
+   "hash": "5b717d529cdce0cf9d9318c9bdc2118c8c322cc6",
    "pkgpath": "bin/libil2cpp.so",
-   "size": 36752296,
+   "size": 36782912,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/Native/libil2cpp.so",
    "xfrm_flags": {
     "signed": {
@@ -29,9 +29,9 @@
      "version": 3
     }
    },
-   "xfrm_hash": "2a6199bdaa3a8c023b55430d2bb2f2af4e6783e9",
+   "xfrm_hash": "1b07f44d5e4593f7cd129574e0c42b842e7d899a",
    "xfrm_path": "/Users/apple/ARrival/Project/.out/.cache/release_lumin_clang-3.8_aarch64/com.arrival.main-6f35ec4a36ece632/libil2cpp.so-965936ec47de2729",
-   "xfrm_size": 36753054
+   "xfrm_size": 36783670
   },
   {
    "compression": 8,
@@ -167,23 +167,23 @@
   },
   {
    "compression": 8,
-   "hash": "b1259782de7fffae5839b0f7008b69f77257da9c",
+   "hash": "3eba3e41a0964a73b3e5d0bf48c80af5c8a62d07",
    "pkgpath": "Data/globalgamemanagers",
-   "size": 35600,
+   "size": 35728,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers"
   },
   {
    "compression": 8,
-   "hash": "96c31943e6bed86c6c5c6e544f2a75b5d9ed4ab4",
+   "hash": "8183c209d8da1580982f6bb2e34f3f152aba3d98",
    "pkgpath": "Data/globalgamemanagers.assets",
-   "size": 37128,
+   "size": 37336,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/globalgamemanagers.assets"
   },
   {
    "compression": 8,
-   "hash": "cf6f1f4bc12c5fd680d66e5855a3b893837c5111",
+   "hash": "5d1d305db0b4075f601001076ec46d43ede5d829",
    "pkgpath": "Data/level0",
-   "size": 116332,
+   "size": 116972,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level0"
   },
   {
@@ -195,7 +195,7 @@
   },
   {
    "compression": 8,
-   "hash": "84c6d9b706e2b02f6122ff8af5c05379f968fa8a",
+   "hash": "d16cd2b7e41a7e79594414c5ef9b26005603a4a8",
    "pkgpath": "Data/level1",
    "size": 11172,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level1"
@@ -209,9 +209,9 @@
   },
   {
    "compression": 8,
-   "hash": "8f602b90c74d5fed80b7d6cec10fea4c794a6d8e",
+   "hash": "3bb6ba725c22a924921be194b9537a654ae5a9bb",
    "pkgpath": "Data/level2",
-   "size": 24004,
+   "size": 24092,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/level2"
   },
   {
@@ -223,9 +223,9 @@
   },
   {
    "compression": 8,
-   "hash": "486264bc20a911f74cc06ceb3bf481da372dd05f",
+   "hash": "712cf82c4dbfe7a4d9a5dbfaf386bfc85f01cac2",
    "pkgpath": "Data/sharedassets0.assets",
-   "size": 4445412,
+   "size": 4666952,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.assets"
   },
   {
@@ -237,14 +237,14 @@
   },
   {
    "compression": 8,
-   "hash": "1d0843fc702cf6ebe79ff80a6a7253b68b8d4355",
+   "hash": "8afff5da1357b3eb20e8739bced23ab4db630ca8",
    "pkgpath": "Data/sharedassets0.resource",
-   "size": 227744,
+   "size": 3525536,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets0.resource"
   },
   {
    "compression": 8,
-   "hash": "276bd26d7d37b962fa1ca58aa815ee8f7e4a4df7",
+   "hash": "168d6ccb390f6a8f5b8f8f36c728cae9e446b978",
    "pkgpath": "Data/sharedassets1.assets",
    "size": 11604,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets1.assets"
@@ -258,7 +258,7 @@
   },
   {
    "compression": 8,
-   "hash": "f0e64dae98b36ab5bc288fa7e77192975da49c05",
+   "hash": "839fa5d4b05f577fccffc70704a5dfb87759a7ef",
    "pkgpath": "Data/sharedassets2.assets",
    "size": 5177076,
    "src": "/Users/apple/ARrival/Project/Temp/StagingArea/Data/sharedassets2.assets"

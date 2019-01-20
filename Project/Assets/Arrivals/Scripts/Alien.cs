@@ -26,16 +26,45 @@ public class Alien : MonoBehaviour {
  
 	void Start () {
         AlienAni = this.GetComponent<Animator>();
-
+        ads.loop = true;
     }
 
 
-    IEnumerator DelaySaying(){
-        yield return new WaitForSeconds(Random.Range(3,15));
+    IEnumerator DelaySaying(int s){
+        yield return new WaitForSeconds(Random.Range(3,s));
         Shoot((int)Random.Range(0,5));
         yield return new WaitForSeconds(5f);
         Say = false;
     }
+
+
+    void PlaySound(){
+        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("idle") || AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Walk"))
+        {
+            ads.clip = idle;
+                   
+            // Do stuf !!
+        }
+
+
+        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Anger"))
+        {
+            ads.clip = Angry;
+            // Do stuf !!
+        }
+
+
+        if (AlienAni.GetCurrentAnimatorStateInfo(0).IsName("Happy"))
+        {
+
+            ads.clip = Happy;
+            // Do stuf !!
+        }
+
+
+
+    }
+
 
 
 
@@ -72,6 +101,22 @@ public class Alien : MonoBehaviour {
     }
     bool Say=false;
 
+    public void RadomRespons(){
+        if (!Say)
+        {
+
+            Say = true;
+            StartCoroutine(DelaySaying(4));
+
+
+
+        }
+
+
+
+    }
+
+
 
     public void RandomSaying(){
 
@@ -81,7 +126,7 @@ public class Alien : MonoBehaviour {
             Say = true;
 
 
-            StartCoroutine(DelaySaying());
+            StartCoroutine(DelaySaying(15));
 
 
 
@@ -137,6 +182,8 @@ public class Alien : MonoBehaviour {
 	void Update () {
 
         FollowPlayer();
+
+        PlaySound();
         //if(Vector3.Distance())
 
 	}

@@ -148,6 +148,7 @@
     <Compile Include="Assets\MagicLeap\Examples\Scripts\Visualizers\VideoCaptureVisualizer.cs" />
     <Compile Include="Assets\MagicLeap\Examples\Scripts\WorldScaleExample.cs" />
     <Compile Include="Assets\MagicLeap\Scripts\MLVersion.cs" />
+    <Compile Include="Assets\RandomAnger.cs" />
     <Compile Include="Assets\RandomHappy.cs" />
     <None Include="Assets\MagicLeap\BackgroundMusicExample\readme.txt" />
     <None Include="Assets\MagicLeap\Examples\Shaders\PointCloud.shader" />

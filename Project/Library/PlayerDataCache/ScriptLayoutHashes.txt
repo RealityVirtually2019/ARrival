@@ -1,6 +1,6 @@
 Lumin
 PlayerPath?
-/Users/apple/Desktop/MyWork/MagicLeap/AliensAndGesture.mpk
+/Users/apple/ARrival/ARivalsApp/ARrival.mpk
 SceneListBegin?
 Assets/ARrivalsMain.unity
 Assets/MagicLeap/Examples/Scenes/HandTracking.unity
@@ -23,7 +23,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 607d64d2c4bc76ac9876e6f7b9cc7edf UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 807b64adaec8891fb2a3cab4cdad9fa1 Assembly-CSharp.dll:MagicLeap.PlaneVisualizer
 a009dc2dafb0bd639ebb9c3c3419fbb9 Assembly-CSharp.dll:MagicLeap.ImageCaptureVisualizer
-7846e751cb081b5966e61816d7c6585c Assembly-CSharp.dll:.Msgorbit
+c803d77a46e67d6a96758d589d5fdd79 Assembly-CSharp.dll:.Msgorbit
 5483de4c696953560ec4c19273b04475 Assembly-CSharp.dll:MagicLeap.FaceTargetPosition
 cf7de20816d94f40211362e382955e6e Assembly-CSharp.dll:MagicLeap.PCFStatusText
 d13828ddfa3ec84a2dbe7846711c2eac Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.ComboRaycastController
@@ -133,7 +133,7 @@ e9bdabf9265d758d56f01bb188916fa8 UnityEngine.Networking.dll:UnityEngine.Networki
 8a37a06dcd8c6d72c7131ded108d3c9a Assembly-CSharp.dll:MagicLeap.MaterialBlendOffsetController
 03c18a585e383505716b015b4395dd87 Assembly-CSharp.dll:MagicLeap.TransformFollower
 6114cff7c75d9aeda40f54f7ca82dcf0 Assembly-CSharp.dll:MagicLeap.MediaPlayerToggle
-b8434e04cf7609abb73bdd6b32aeff48 Assembly-CSharp.dll:.TowHandKeyGestureTable
+5cd6bdbf63931a51e87fb77efd97983b Assembly-CSharp.dll:.TowHandKeyGestureTable
 4e01e17f8cca6ae08eabbf236a6852c9 Assembly-CSharp.dll:MagicLeap.MaterialThresholdController
 51752d83846c6a67671a67a7e1bb8b9c Assembly-CSharp.dll:MagicLeap.HandTrackingExample
 ae022327eacf9365822d7399d0478d8f Assembly-CSharp.dll:MagicLeap.WorldScaleExample
@@ -162,7 +162,7 @@ b070c608a2c3037a3af830af58b00d9b Assembly-CSharp.dll:MagicLeap.DestroyAfterTime
 cb11bad297ab0b4271df38fdade7ef07 Assembly-CSharp.dll:MagicLeap.ImageTrackingVisualizer
 7c6cfca53c94c1ede60129ec50d74252 Assembly-CSharp.dll:MagicLeap.ImageTrackingExample
 8234eb6652149e31d76420b6f5205093 Assembly-CSharp.dll:MagicLeap.KeyPoseVisualizer
-ccc0bf256402f274e5c45b61ffa9acf7 Assembly-CSharp.dll:.Alien
+37b5233b3401b5bb76c855a4b0ebf3e9 Assembly-CSharp.dll:.Alien
 c51003c9192e8c26fa1b5347c6106b74 Assembly-CSharp.dll:MagicLeap.PlacementObject
 a814b880ff4f40c17dfbb0350c7828a2 Assembly-CSharp.dll:MagicLeap.ControllerVisualizer
 7df154d21c515720f13019d6a5f67eb5 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.HandTracking
@@ -240,3 +240,5 @@ bd8dba5f8f9406c24767e50bdfeaf214 Assembly-CSharp.dll:UnityEngine.XR.MagicLeap.Co
 08a92322e38205b685c92fa359d21d7a Assembly-CSharp.dll:MagicLeap.MeshingVisualizer
 2c832bb50381ee4d40b2f62c67f06a67 Assembly-CSharp.dll:MagicLeap.DeepSeaExplorerLauncher
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RandomHappy
+d616794f4bca27507a059bbd3010e3ef Assembly-CSharp.dll:.DIO
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.RandomAnger
