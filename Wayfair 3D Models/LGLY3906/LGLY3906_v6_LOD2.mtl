@@ -1,0 +1,57 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.04.2018 05:21:37
+
+newmtl spec__080808_78_RooomyBasicwood_wf_84_LGLY3906
+	Ns 78.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0314 0.0314 0.0314
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./WoodFine0011_1024.jpg
+	map_Kd ./WoodFine0011_1024.jpg
+
+newmtl spec__646464_70_StainlessSteel_wf_65_LGLY3906
+	Ns 70.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0314 0.0314 0.0314
+	Kd 0.0314 0.0314 0.0314
+	Ks 0.3922 0.3922 0.3922
+	Ke 0.0000 0.0000 0.0000
+
+newmtl spec__010101_98_RooomyBasicFabric_wf_57_LGLY3906
+	Ns 99.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0039 0.0039 0.0039
+	Kd 0.0039 0.0039 0.0039
+	Ks 0.0039 0.0039 0.0039
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./bu_1024.jpg
+	map_Kd ./bu_1024.jpg
+	map_bump ./buAT_1024_normal_Normal_Bump.jpg
+
+newmtl shadow_mtl_LGLY3906
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./LGLY3906_shadow_plane_v6.png
+	map_Kd ./LGLY3906_shadow_plane_v6.png

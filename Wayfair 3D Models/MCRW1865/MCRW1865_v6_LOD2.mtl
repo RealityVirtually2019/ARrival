@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 09.05.2018 20:32:08
+
+newmtl spec__000000_100_Material_2142147579_wf_99_MCRW1865
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_Material_2142147579_wf_99_MCRW1865_Mix_Map__28.jpg
+	map_Kd ./spec__000000_100_Material_2142147579_wf_99_MCRW1865_Mix_Map__28.jpg
+	map_bump ./spec__000000_100_Material_2142147579_wf_99_MCRW1865_Noise_Map__29_Normal_Bump.jpg
+
+newmtl spec__000000_100_fabic_wf_78_MCRW1865
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5000 0.5000 0.5000
+	Kd 0.5000 0.5000 0.5000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_fabic_wf_78_MCRW1865_Color_Correction_Map__18.jpg
+	map_Kd ./spec__000000_100_fabic_wf_78_MCRW1865_Color_Correction_Map__18.jpg
+
+newmtl shadow_mtl_MCRW1865
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MCRW1865_shadow_plane_v6.png
+	map_Kd ./MCRW1865_shadow_plane_v6.png

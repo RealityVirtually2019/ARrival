@@ -1,0 +1,45 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 21.10.2017 17:16:16
+
+newmtl spec__000000_100_bu2_wf_31_MTNA1398
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_bu2_wf_31_MTNA1398_Mix_String.jpg
+	map_Kd ./spec__000000_100_bu2_wf_31_MTNA1398_Mix_String.jpg
+	map_bump ./img_2_1024_normal_Normal_Bump.jpg
+
+newmtl spec__000000_100_bu1_wf_40_MTNA1398
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.2667 0.1922 0.5451
+	Kd 0.2667 0.1922 0.5451
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./spec__000000_100_bu1_wf_40_MTNA1398_Mix_String.jpg
+	map_Kd ./spec__000000_100_bu1_wf_40_MTNA1398_Mix_String.jpg
+
+newmtl shadow_mtl_MTNA1398
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.5880 0.5880 0.5880
+	Ks 0.9000 0.9000 0.9000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka ./MTNA1398_shadow_plane_v6.png
+	map_Kd ./MTNA1398_shadow_plane_v6.png
