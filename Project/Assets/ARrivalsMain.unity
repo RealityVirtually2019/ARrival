@@ -1361,7 +1361,7 @@ GameObject:
   - component: {fileID: 1225893274}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1510,6 +1510,10 @@ Prefab:
     - target: {fileID: 400050, guid: 3b4574974358b4045bcad212d42b89dd, type: 3}
       propertyPath: m_LocalRotation.w
       value: 0.7129905
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 3b4574974358b4045bcad212d42b89dd, type: 3}
+      propertyPath: m_TagString
+      value: Alien
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 3b4574974358b4045bcad212d42b89dd, type: 3}
@@ -1767,7 +1771,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1493622475
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1964,7 +1968,7 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.37037
+  near clip plane: 0.1
   far clip plane: 10
   field of view: 60
   orthographic: 0
